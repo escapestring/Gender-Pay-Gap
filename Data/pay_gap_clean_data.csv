@@ -1,0 +1,1921 @@
+employee_id,gender,annual_salary_amount_in_usd,job_experience,job_pay_level,full_or_part_time,hourly_or_salary,job_family_group,job_continent,pay_gap_perc
+100650518,Female,45000.0,2,Second Year Associate,Full time,Salary,Client Strategy,Americas,6.59
+100362807,Male,41644.08,9,Team Lead,Full time,Salary,Catering,Oceania,-2.88
+100568527,Female,42134.82,5,Junior Associate,Full time,Salary,Client Strategy,Europe,6.59
+100296166,Female,43667.64,6,Team Lead,Full time,Salary,Catering,Asia,-2.88
+100825514,Female,63750.0,7,Senior Associate,Full time,Salary,Graphic Design,Americas,27.77
+100088896,Female,82500.0,9,Team Lead,Full time,Salary,Technology Services,Americas,16.17
+100626372,Male,49500.0,2,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100874112,Female,113069.03,17,Manger II,Full time,Salary,Technology Services,Asia,16.17
+100782843,Female,21115.49,4,Junior Associate,Full time,Salary,Customer Experience,Americas,10.48
+100290858,Female,67500.0,8,Junior Associate,Full time,Salary,Customer Experience,Americas,10.48
+100054254,Male,45880.13,6,Junior Associate,Full time,Salary,Catering,Europe,-2.88
+100903250,Female,112500.0,4,Senior Associate,Full time,Salary,R&D,Americas,-10.52
+100172419,Male,51750.0,8,Junior Associate,Full time,Salary,Research,Americas,0.0
+100085171,Male,25910.98,7,Entry Level,Full time,Hourly,Research,Americas,0.0
+100348612,Male,93750.0,14,Team Lead,Full time,Salary,Strategy,Americas,34.74
+100771425,Female,93750.0,24,Team Lead,Full time,Salary,Expansion,Americas,17.29
+100891145,Male,75000.0,21,Team Lead,Full time,Salary,Client Strategy,Americas,6.59
+100316806,Female,25911.6,39,Entry Level,Full time,Hourly,Research,Americas,0.0
+100962011,Male,50700.0,3,Junior Associate,Full time,Hourly,Catering,Americas,-2.88
+100036657,Female,57937.5,8,Junior Associate,Full time,Salary,Customer Experience,Americas,10.48
+100582293,Male,21840.0,4,Entry Level,Full time,Hourly,Catering,Americas,-2.88
+100811509,Male,182850.0,12,Manger II,Full time,Salary,Technology Services,Americas,16.17
+100340274,Male,98314.57,28,Manger II,Full time,Salary,Government Consulting,Europe,0.0
+100087566,Male,51000.0,8,Junior Associate,Full time,Salary,Government Consulting,Americas,0.0
+100575155,Female,55617.96,8,Senior Associate,Full time,Salary,Strategy,Europe,34.74
+100810978,Male,60000.0,2,Second Year Associate,Full time,Salary,Investment,Americas,22.35
+100272700,Female,56179.76,14,Senior Associate,Full time,Salary,Research,Europe,0.0
+100125182,Female,57000.0,1,Second Year Associate,Full time,Salary,Customer Experience,Americas,10.48
+100038932,Female,123750.0,8,Manager,Full time,Salary,R&D,Americas,-10.52
+100638721,Male,52500.0,11,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100623614,Male,24102.0,6,Entry Level,Full time,Hourly,Research,Americas,0.0
+100837942,Female,258375.0,16,Director,Full time,Salary,Strategy,Americas,34.74
+100264419,Male,150000.0,24,Manger II,Full time,Salary,Technology Services,Americas,16.17
+100078611,Female,97500.0,9,Senior Associate,Full time,Salary,Technology Services,Americas,16.17
+100887818,Male,52500.0,18,Junior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100607050,Male,82500.0,6,Team Lead,Full time,Salary,Client Strategy,Americas,6.59
+100941813,Male,36224.98,6,Junior Associate,Full time,Salary,Client Techology,Europe,-2.01
+100978298,Female,63112.5,6,Senior Associate,Full time,Salary,Graphic Design,Americas,27.77
+100125326,Female,59699.39,7,Team Lead,Full time,Salary,Catering,Americas,-2.88
+100641082,Female,16661.99,18,Senior Associate,Full time,Salary,Customer Experience,Americas,10.48
+100128727,Male,38664.8,4,Manager,Full time,Salary,Patent Law,Americas,-16.4
+100269515,Female,76500.0,8,Manager,Full time,Salary,Graphic Design,Americas,27.77
+100794622,Male,74025.32,12,Senior Associate,Full time,Salary,Expansion,Europe,17.29
+100895121,Female,82497.75,6,Team Lead,Full time,Salary,Customer Experience,Americas,10.48
+100621109,Male,25910.82,22,Entry Level,Full time,Hourly,Research,Americas,0.0
+100970884,Female,51498.11,4,Junior Associate,Full time,Salary,Expansion,Europe,17.29
+100416515,Male,71250.0,11,Team Lead,Full time,Salary,Client Strategy,Americas,6.59
+100771507,Female,86250.0,12,Team Lead,Full time,Salary,Customer Experience,Americas,10.48
+100557910,Female,61875.0,7,Junior Associate,Full time,Salary,Graphic Design,Americas,27.77
+100008091,Male,90000.0,7,Second Year Associate,Full time,Salary,Technology Services,Americas,16.17
+100943555,Male,10711.28,5,Second Year Associate,Full time,Salary,Catering,Americas,-2.88
+100502809,Male,84269.63,14,Team Lead,Full time,Salary,Client Strategy,Europe,6.59
+100626005,Female,50212.5,6,Second Year Associate,Full time,Salary,Strategy,Americas,34.74
+100323261,Female,68352.04,32,Junior Associate,Full time,Salary,Customer Experience,Europe,10.48
+100186642,Male,46800.0,9,Junior Associate,Part time,Hourly,Government Consulting,Americas,0.0
+100119541,Male,100425.0,6,Team Lead,Full time,Salary,Strategy,Americas,34.74
+100779298,Female,63495.0,5,Senior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100466637,Male,48750.0,5,Second Year Associate,Full time,Salary,Investment,Americas,22.35
+100967826,Female,82500.0,7,Junior Associate,Full time,Salary,Customer Experience,Americas,10.48
+100990643,Female,21115.49,8,Senior Associate,Full time,Salary,Expansion,Americas,17.29
+100265927,Male,104793.75,8,Manager,Full time,Salary,Pricing Analytics,Americas,-4.56
+100962714,Female,120000.0,15,Manager,Full time,Salary,Pricing Analytics,Americas,-4.56
+100090682,Female,83700.0,10,Team Lead,Full time,Salary,Investment,Americas,22.35
+100265253,Female,25749.05,3,Second Year Associate,Full time,Salary,Catering,Europe,-2.88
+100405823,Male,67500.0,6,Senior Associate,Full time,Salary,Expansion,Americas,17.29
+100666680,Female,73500.0,9,Junior Associate,Full time,Salary,Investment,Americas,22.35
+100379731,Male,112500.0,28,Manager,Full time,Salary,Research,Americas,0.0
+100883328,Male,75000.0,12,Senior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100105129,Female,52500.0,3,Junior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100421875,Female,25911.6,35,Entry Level,Full time,Hourly,Research,Americas,0.0
+100796460,Female,50212.5,6,Junior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100124799,Female,43606.08,12,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100377213,Female,49500.0,3,Second Year Associate,Full time,Salary,R&D,Americas,-10.52
+100318723,Male,67500.0,4,Senior Associate,Full time,Salary,IPO Strategy,Americas,-29.53
+100562928,Male,112500.0,8,Manager,Full time,Salary,Pricing Analytics,Americas,-4.56
+100457291,Female,80248.5,9,Team Lead,Full time,Salary,Customer Experience,Americas,10.48
+100148361,Male,21386.7,27,Senior Associate,Full time,Salary,Expansion,Americas,17.29
+100842163,Female,32760.0,2,Second Year Associate,Full time,Hourly,Catering,Americas,-2.88
+100464825,Male,82498.88,3,Senior Associate,Full time,Salary,Pricing Analytics,Americas,-4.56
+100443147,Female,65025.0,2,Team Lead,Full time,Salary,Strategy,Americas,34.74
+100405645,Female,138750.0,9,Manager,Full time,Salary,Technology Services,Americas,16.17
+100510770,Male,150002.63,8,Manger II,Full time,Salary,Client Strategy,Americas,6.59
+100240033,Male,90768.75,9,Team Lead,Full time,Salary,Client Strategy,Americas,6.59
+100113785,Male,63750.0,9,Senior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100612788,Male,33930.0,40,Junior Associate,Part time,Hourly,Government Consulting,Americas,0.0
+100176604,Female,51000.06,8,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100533537,Male,87340.79,11,Manager,Full time,Salary,Customer Experience,Europe,10.48
+100373150,Female,25910.82,5,Entry Level,Full time,Hourly,Research,Americas,0.0
+100488151,Male,89138.54,8,Manager,Full time,Salary,Pricing Analytics,Europe,-4.56
+100832011,Male,53838.93,9,Senior Associate,Full time,Salary,Client Strategy,Europe,6.59
+100894289,Male,131250.0,8,Manager,Full time,Salary,Patent Law,Americas,-16.4
+100686089,Female,93632.92,10,Manager,Full time,Salary,Client Strategy,Europe,6.59
+100915449,Male,25911.6,9,Entry Level,Full time,Hourly,Research,Americas,0.0
+100262094,Female,13607.76,5,Junior Associate,Full time,Salary,Customer Experience,Americas,10.48
+100003788,Male,40407.87,9,Second Year Associate,Full time,Salary,Strategy,Asia,34.74
+100893528,Male,94500.0,7,Team Lead,Full time,Salary,Client Techology,Americas,-2.01
+100753445,Female,57937.5,5,Team Lead,Full time,Salary,Catering,Americas,-2.88
+100927404,Male,90000.0,2,Junior Associate,Full time,Salary,Technology Services,Americas,16.17
+100798122,Male,148242.75,11,Manager,Full time,Salary,Technology Services,Americas,16.17
+100298835,Female,9080.19,6,Junior Associate,Full time,Salary,Catering,Africa,-2.88
+100620915,Female,84497.63,11,Team Lead,Full time,Salary,R&D,Europe,-10.52
+100527655,Female,29485.45,8,Junior Associate,Full time,Salary,Catering,Europe,-2.88
+100882036,Female,50546.47,16,Team Lead,Full time,Salary,Catering,Europe,-2.88
+100088412,Female,52530.0,5,Team Lead,Full time,Salary,Catering,Americas,-2.88
+100752878,Male,142494.0,14,Manger II,Full time,Salary,R&D,Americas,-10.52
+100142483,Male,35256.0,7,Second Year Associate,Full time,Hourly,Catering,Americas,-2.88
+100991352,Male,76125.0,5,Team Lead,Full time,Salary,Client Strategy,Americas,6.59
+100370653,Female,75000.0,13,Junior Associate,Full time,Salary,Technology Services,Americas,16.17
+100195759,Female,60758.41,10,Team Lead,Full time,Salary,Strategy,Europe,34.74
+100550810,Female,74503.77,8,Manger II,Full time,Salary,Catering,Europe,-2.88
+100826501,Male,117041.16,4,Manager,Full time,Salary,Pricing Analytics,Europe,-4.56
+100569832,Male,138750.0,7,Manger II,Full time,Salary,Expansion,Americas,17.29
+100142423,Female,60861.4,6,Junior Associate,Full time,Salary,Pricing Analytics,Europe,-4.56
+100579909,Female,67500.0,10,Junior Associate,Full time,Salary,Government Consulting,Americas,0.0
+100920353,Female,51498.11,4,Team Lead,Full time,Salary,Research,Europe,0.0
+100348868,Male,101092.95,21,Manager,Full time,Salary,Patent Law,Europe,-16.4
+100625414,Male,146775.0,20,Manger II,Full time,Salary,Expansion,Americas,17.29
+100131088,Female,53370.77,12,Senior Associate,Full time,Salary,Strategy,Europe,34.74
+100188198,Female,225000.0,18,Director,Full time,Salary,Client Techology,Americas,-2.01
+100467270,Female,58500.0,4,Second Year Associate,Full time,Salary,Customer Experience,Americas,10.48
+100922521,Female,32846.31,10,Team Lead,Full time,Salary,Strategy,Americas,34.74
+100691300,Male,36004.8,1,Second Year Associate,Full time,Hourly,Catering,Americas,-2.88
+100221292,Male,30517.43,10,Junior Associate,Full time,Salary,Catering,Europe,-2.88
+100747590,Female,115875.0,12,Manager,Full time,Salary,IPO Strategy,Americas,-29.53
+100155160,Male,119250.0,11,Manager,Full time,Salary,Customer Experience,Americas,10.48
+100413677,Female,32292.0,1,Second Year Associate,Full time,Hourly,Catering,Americas,-2.88
+100764474,Male,43014.57,15,Team Lead,Full time,Salary,Research,Europe,0.0
+100737144,Male,24278.89,5,Senior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100284257,Female,51051.94,10,Junior Associate,Full time,Salary,Customer Experience,Europe,10.48
+100866064,Male,162000.0,5,Director,Full time,Salary,Strategy,Americas,34.74
+100263995,Female,21840.0,29,Entry Level,Full time,Hourly,Catering,Americas,-2.88
+100962116,Female,110467.5,5,Team Lead,Full time,Salary,Technology Services,Americas,16.17
+100053976,Female,50212.5,9,Team Lead,Full time,Salary,Catering,Americas,-2.88
+100847143,Male,20280.0,10,Entry Level,Full time,Hourly,Catering,Americas,-2.88
+100141513,Female,49500.0,8,Second Year Associate,Full time,Salary,Client Strategy,Americas,6.59
+100089849,Male,59019.0,13,Team Lead,Full time,Salary,Catering,Americas,-2.88
+100841347,Male,375000.0,29,Director,Full time,Salary,Leadership,Americas,37.58
+100578137,Female,93750.0,7,Junior Associate,Full time,Salary,Technology Services,Americas,16.17
+100408697,Female,105000.0,7,Team Lead,Full time,Salary,R&D,Americas,-10.52
+100634944,Male,52500.0,8,Junior Associate,Full time,Salary,Government Consulting,Americas,0.0
+100501537,Female,133875.0,19,Manager,Full time,Salary,Investment,Americas,22.35
+100829332,Male,58500.0,8,Team Lead,Full time,Salary,Catering,Americas,-2.88
+100658892,Female,165000.0,22,Manger II,Full time,Salary,Technology Services,Americas,16.17
+100312537,Male,51498.11,5,Junior Associate,Full time,Salary,Expansion,Europe,17.29
+100494906,Male,25910.82,21,Entry Level,Full time,Hourly,Research,Americas,0.0
+100174665,Male,93750.0,13,Second Year Associate,Full time,Salary,Expansion,Americas,17.29
+100026193,Female,52509.6,6,Junior Associate,Full time,Hourly,Patent Law,Americas,-16.4
+100960525,Female,108150.0,10,Junior Associate,Full time,Salary,Technology Services,Americas,16.17
+100552251,Female,193125.0,12,Director,Full time,Salary,Graphic Design,Americas,27.77
+100952282,Male,75000.0,11,Senior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100591169,Female,86250.0,14,Team Lead,Full time,Salary,Client Strategy,Americas,6.59
+100504919,Female,59482.5,8,Team Lead,Full time,Salary,Catering,Americas,-2.88
+100206272,Female,108750.0,9,Senior Associate,Full time,Salary,Technology Services,Americas,16.17
+100405345,Male,123750.0,18,Senior Associate,Full time,Salary,Technology Services,Americas,16.17
+100139701,Female,46720.8,20,Senior Associate,Full time,Salary,Investment,Americas,22.35
+100123746,Male,206250.0,12,Manger II,Full time,Salary,Patent Law,Americas,-16.4
+100925812,Female,16423.15,7,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100322717,Male,181500.0,17,Manger II,Full time,Salary,Technology Services,Americas,16.17
+100804529,Male,11044.51,7,Junior Associate,Full time,Salary,Customer Experience,Americas,10.48
+100204604,Male,168750.0,17,Manger II,Full time,Salary,Expansion,Americas,17.29
+100834115,Male,52500.0,8,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100845315,Female,37502.4,9,Entry Level,Full time,Hourly,Research,Americas,0.0
+100046572,Female,29277.5,13,Team Lead,Full time,Salary,Client Strategy,Americas,6.59
+100013676,Female,29962.54,5,Junior Associate,Full time,Salary,Catering,Europe,-2.88
+100445722,Female,46800.0,4,Second Year Associate,Full time,Hourly,R&D,Americas,-10.52
+100944446,Male,93750.0,34,Team Lead,Full time,Salary,Expansion,Americas,17.29
+100290467,Female,47655.47,9,Senior Associate,Full time,Salary,Customer Experience,Asia,10.48
+100419831,Female,146250.0,10,Manager,Full time,Salary,Patent Law,Americas,-16.4
+100183693,Male,43875.0,3,Second Year Associate,Full time,Salary,Investment,Americas,22.35
+100385039,Female,56250.0,10,Second Year Associate,Full time,Salary,Strategy,Americas,34.74
+100697400,Female,69683.61,11,Senior Associate,Full time,Salary,Technology Services,Europe,16.17
+100758612,Female,42134.82,3,Junior Associate,Full time,Salary,IPO Strategy,Europe,-29.53
+100837061,Male,116250.0,22,Team Lead,Full time,Salary,Technology Services,Americas,16.17
+100617362,Male,169312.5,12,Sr Manager,Full time,Salary,Research,Americas,0.0
+100247374,Female,89062.5,7,Team Lead,Full time,Salary,R&D,Americas,-10.52
+100270372,Male,63750.0,22,Junior Associate,Full time,Salary,Expansion,Americas,17.29
+100498636,Female,26250.0,2,Entry Level,Full time,Salary,Client Strategy,Americas,6.59
+100316998,Female,56250.0,6,Junior Associate,Full time,Salary,Customer Experience,Americas,10.48
+100726404,Male,23400.0,2,Entry Level,Full time,Hourly,Catering,Americas,-2.88
+100423167,Male,120000.0,15,Senior Associate,Full time,Salary,Technology Services,Americas,16.17
+100723749,Female,77250.0,5,Manager,Full time,Salary,Graphic Design,Americas,27.77
+100218101,Male,39000.0,13,Junior Associate,Full time,Hourly,Government Consulting,Americas,0.0
+100009387,Female,92663.42,12,Manager,Full time,Salary,R&D,Asia,-10.52
+100525042,Male,82500.0,9,Team Lead,Full time,Salary,Customer Experience,Americas,10.48
+100890970,Female,67671.63,6,Team Lead,Full time,Salary,Expansion,Oceania,17.29
+100038302,Female,67500.0,4,Senior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100473712,Female,32760.0,5,Second Year Associate,Full time,Hourly,Catering,Americas,-2.88
+100887530,Female,63750.0,7,Junior Associate,Full time,Salary,Graphic Design,Americas,27.77
+100221484,Female,243750.0,14,Sr Manager,Full time,Salary,Technology Services,Americas,16.17
+100214876,Male,17596.24,8,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100843595,Female,30517.43,3,Junior Associate,Full time,Salary,Catering,Europe,-2.88
+100062801,Male,194400.0,10,Manager,Full time,Salary,Client Techology,Americas,-2.01
+100414508,Female,27315.6,16,Entry Level,Full time,Hourly,Research,Americas,0.0
+100233440,Male,25911.6,6,Entry Level,Full time,Hourly,Research,Americas,0.0
+100276689,Female,60000.0,8,Senior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100369598,Male,65662.5,0,Second Year Associate,Full time,Salary,Expansion,Americas,17.29
+100851030,Female,45000.0,3,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100058577,Female,57937.5,16,Second Year Associate,Full time,Salary,Investment,Americas,22.35
+100596967,Female,25911.6,36,Entry Level,Full time,Hourly,Research,Americas,0.0
+100706561,Female,25749.05,0,Second Year Associate,Full time,Salary,Catering,Europe,-2.88
+100410262,Female,45144.0,5,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100602881,Male,33930.0,41,Junior Associate,Part time,Hourly,Government Consulting,Americas,0.0
+100653526,Male,86625.0,8,Team Lead,Full time,Salary,Client Strategy,Americas,6.59
+100013886,Female,21748.95,4,Junior Associate,Full time,Salary,Customer Experience,Americas,10.48
+100026393,Male,160650.0,12,Manger II,Full time,Salary,Client Strategy,Americas,6.59
+100781667,Female,59999.94,11,Second Year Associate,Full time,Hourly,Strategy,Americas,34.74
+100846575,Female,82500.0,9,Senior Associate,Full time,Salary,Graphic Design,Americas,27.77
+100540944,Male,150003.75,16,Manager,Full time,Salary,Technology Services,Americas,16.17
+100571331,Male,71607.51,10,Manager,Full time,Salary,Expansion,Europe,17.29
+100985546,Male,77625.0,3,Senior Associate,Full time,Salary,Technology Services,Americas,16.17
+100355605,Female,73387.5,5,Manager,Full time,Salary,Catering,Americas,-2.88
+100126059,Male,168750.0,17,Sr Manager,Full time,Salary,Expansion,Americas,17.29
+100526692,Male,25911.6,5,Entry Level,Full time,Hourly,Research,Americas,0.0
+100615473,Female,142322.05,9,Manager,Full time,Salary,Investment,Europe,22.35
+100921147,Female,40500.0,5,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100028946,Male,92700.0,7,Team Lead,Full time,Salary,Client Strategy,Americas,6.59
+100139852,Female,35704.26,16,Senior Associate,Full time,Salary,Expansion,Americas,17.29
+100905626,Female,91619.82,17,Manger II,Full time,Salary,Research,Europe,0.0
+100159927,Male,33774.0,3,Entry Level,Full time,Hourly,Research,Americas,0.0
+100212116,Female,32760.0,0,Second Year Associate,Full time,Hourly,Catering,Americas,-2.88
+100817217,Male,131250.0,26,Team Lead,Full time,Salary,Technology Services,Americas,16.17
+100998819,Female,38966.14,9,Senior Associate,Full time,Salary,Client Strategy,Europe,6.59
+100441199,Male,86250.0,12,Second Year Associate,Full time,Salary,Technology Services,Americas,16.17
+100546368,Female,29485.45,6,Junior Associate,Full time,Salary,Catering,Europe,-2.88
+100688148,Male,60000.0,17,Junior Associate,Full time,Salary,Client Techology,Americas,-2.01
+100280172,Male,70224.7,8,Senior Associate,Full time,Salary,Client Strategy,Europe,6.59
+100924565,Male,103500.0,6,Manager,Full time,Salary,Expansion,Americas,17.29
+100466245,Female,34540.1,6,Junior Associate,Full time,Salary,Catering,Europe,-2.88
+100497944,Female,8330.99,0,Second Year Associate,Full time,Salary,Catering,Americas,-2.88
+100156595,Male,55123.2,4,Entry Level,Full time,Salary,Investment,Americas,22.35
+100730832,Male,25910.82,7,Entry Level,Full time,Hourly,Research,Americas,0.0
+100089244,Male,90000.0,5,Team Lead,Full time,Salary,Technology Services,Americas,16.17
+100568181,Male,71250.0,15,Team Lead,Full time,Salary,Graphic Design,Americas,27.77
+100653736,Male,39585.0,11,Junior Associate,Part time,Hourly,Government Consulting,Americas,0.0
+100651215,Male,63767.5,12,Team Lead,Full time,Salary,Client Strategy,Oceania,6.59
+100783918,Female,112631.95,7,Manager,Full time,Salary,Expansion,Americas,17.29
+100063423,Male,51845.18,9,Senior Associate,Full time,Salary,Investment,Asia,22.35
+100556926,Female,60000.0,6,Second Year Associate,Full time,Salary,Client Techology,Americas,-2.01
+100393143,Male,183750.0,7,Director,Full time,Salary,Graphic Design,Americas,27.77
+100678681,Female,66000.0,4,Junior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100416728,Female,73387.5,8,Junior Associate,Full time,Salary,Customer Experience,Americas,10.48
+100448064,Female,45000.0,7,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100987634,Male,150000.0,16,Manager,Full time,Salary,Technology Services,Americas,16.17
+100326495,Male,48220.96,10,Junior Associate,Full time,Salary,Customer Experience,Europe,10.48
+100699515,Female,135000.0,9,Team Lead,Full time,Salary,Technology Services,Americas,16.17
+100490946,Female,60750.0,8,Junior Associate,Full time,Salary,R&D,Americas,-10.52
+100550478,Female,105000.0,18,Manager,Full time,Salary,Client Strategy,Americas,6.59
+100839882,Female,46462.5,7,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100827707,Female,72000.0,3,Senior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100969350,Male,42750.0,1,Junior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100789656,Male,101250.0,7,Team Lead,Full time,Salary,Investment,Americas,22.35
+100766502,Male,40560.0,15,Entry Level,Full time,Hourly,Government Consulting,Americas,0.0
+100727258,Male,117750.0,9,Senior Associate,Full time,Salary,Technology Services,Americas,16.17
+100810362,Female,122062.5,6,Team Lead,Full time,Salary,Technology Services,Americas,16.17
+100457544,Female,126404.45,13,Sr Manager,Full time,Salary,IPO Strategy,Europe,-29.53
+100865324,Female,98262.0,25,Manager,Full time,Salary,Client Strategy,Americas,6.59
+100101339,Female,10711.28,8,Second Year Associate,Full time,Salary,Catering,Americas,-2.88
+100838053,Female,39780.0,5,Second Year Associate,Full time,Hourly,Catering,Americas,-2.88
+100396083,Male,185400.0,20,Manager,Full time,Salary,Technology Services,Americas,16.17
+100055654,Female,24102.0,19,Entry Level,Full time,Hourly,Research,Americas,0.0
+100910292,Male,63750.0,9,Team Lead,Full time,Salary,Catering,Americas,-2.88
+100264529,Male,108750.0,6,Junior Associate,Full time,Salary,Technology Services,Americas,16.17
+100473992,Male,52500.01,5,Second Year Associate,Full time,Hourly,Patent Law,Americas,-16.4
+100396746,Male,25911.6,15,Entry Level,Full time,Hourly,Research,Americas,0.0
+100150054,Female,75000.0,6,Senior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100457451,Female,52500.0,5,Second Year Associate,Full time,Salary,Client Strategy,Americas,6.59
+100379468,Male,225000.0,26,Director II,Full time,Salary,Client Strategy,Americas,6.59
+100704905,Female,37500.0,4,Entry Level,Full time,Salary,Graphic Design,Americas,27.77
+100053610,Female,144000.0,22,Manger II,Full time,Salary,Client Strategy,Americas,6.59
+100303188,Male,123750.0,7,Manager,Full time,Salary,Investment,Americas,22.35
+100411602,Female,71250.0,8,Team Lead,Full time,Salary,Graphic Design,Americas,27.77
+100605921,Male,90900.0,13,Senior Associate,Full time,Salary,Customer Experience,Americas,10.48
+100510167,Female,138750.0,20,Team Lead,Full time,Salary,R&D,Americas,-10.52
+100728387,Female,93632.92,9,Manager,Full time,Salary,Strategy,Europe,34.74
+100071660,Female,150000.0,16,Sr Manager,Full time,Salary,Client Strategy,Americas,6.59
+100436837,Female,117213.75,7,Senior Associate,Full time,Salary,Technology Services,Americas,16.17
+100688771,Male,62494.36,12,Team Lead,Full time,Salary,Customer Experience,Europe,10.48
+100203139,Female,75000.0,9,Senior Associate,Full time,Salary,R&D,Americas,-10.52
+100914894,Female,84000.0,7,Manager,Full time,Salary,Client Strategy,Americas,6.59
+100213290,Male,97500.0,8,Junior Associate,Full time,Salary,Technology Services,Americas,16.17
+100359778,Female,90000.0,11,Senior Associate,Full time,Salary,Customer Experience,Americas,10.48
+100479376,Female,111750.0,6,Senior Associate,Full time,Salary,Technology Services,Americas,16.17
+100533891,Male,112500.0,15,Manager,Full time,Salary,Customer Experience,Americas,10.48
+100330454,Female,58500.0,6,Team Lead,Full time,Salary,Catering,Americas,-2.88
+100560978,Female,17449.61,3,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100158035,Female,54657.86,8,Junior Associate,Full time,Salary,Customer Experience,Oceania,10.48
+100992077,Male,56179.76,9,Senior Associate,Full time,Salary,Customer Experience,Europe,10.48
+100082710,Male,180000.0,12,Manager,Full time,Salary,Technology Services,Americas,16.17
+100037660,Male,198750.0,10,Manger II,Full time,Salary,Technology Services,Americas,16.17
+100682323,Male,49500.0,7,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100679734,Male,60000.0,3,Second Year Associate,Full time,Salary,Strategy,Americas,34.74
+100102620,Female,45000.0,3,Entry Level,Full time,Salary,Graphic Design,Americas,27.77
+100716261,Male,30363.23,6,Junior Associate,Full time,Salary,Catering,Europe,-2.88
+100005067,Male,123750.0,8,Senior Associate,Full time,Salary,Technology Services,Americas,16.17
+100917376,Female,138750.0,9,Manger II,Full time,Salary,Strategy,Americas,34.74
+100624539,Male,39000.0,5,Junior Associate,Full time,Hourly,Government Consulting,Americas,0.0
+100295596,Male,48750.0,3,Junior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100411114,Female,97500.0,11,Senior Associate,Full time,Salary,Technology Services,Americas,16.17
+100845629,Female,53100.0,6,Senior Associate,Full time,Salary,Customer Experience,Americas,10.48
+100335494,Male,112500.0,6,Senior Associate,Full time,Salary,Technology Services,Americas,16.17
+100718540,Female,92287.5,9,Team Lead,Full time,Salary,Customer Experience,Americas,10.48
+100974948,Male,86250.0,10,Team Lead,Full time,Salary,Expansion,Americas,17.29
+100564210,Female,75000.0,6,Team Lead,Full time,Salary,Expansion,Americas,17.29
+100844429,Male,51002.25,9,Junior Associate,Full time,Salary,Expansion,Americas,17.29
+100130236,Female,54758.68,8,Team Lead,Full time,Salary,Catering,Europe,-2.88
+100748610,Male,25911.6,4,Entry Level,Full time,Hourly,Research,Americas,0.0
+100583629,Male,206250.0,17,Sr Manager,Full time,Salary,Strategy,Americas,34.74
+100696603,Female,89251.5,8,Team Lead,Full time,Salary,Investment,Americas,22.35
+100319126,Male,105000.0,3,Senior Associate,Full time,Salary,Technology Services,Americas,16.17
+100208535,Male,28755.0,10,Team Lead,Full time,Salary,Catering,Africa,-2.88
+100592100,Female,21115.49,13,Junior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100470503,Male,119025.0,12,Manger II,Full time,Salary,Expansion,Americas,17.29
+100171683,Male,75000.0,4,Senior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100045888,Female,51000.0,7,Senior Associate,Full time,Salary,Government Consulting,Americas,0.0
+100046480,Female,101062.5,13,Senior Associate,Full time,Salary,Technology Services,Americas,16.17
+100202271,Female,30995.1,8,Junior Associate,Full time,Salary,Catering,Europe,-2.88
+100336089,Male,48750.0,7,Entry Level,Full time,Salary,Technology Services,Americas,16.17
+100531288,Female,67500.0,1,Junior Associate,Full time,Salary,Government Consulting,Americas,0.0
+100118801,Male,63750.0,6,Junior Associate,Full time,Salary,Customer Experience,Americas,10.48
+100719247,Male,123750.0,13,Manager,Full time,Salary,Research,Americas,0.0
+100080519,Female,101250.0,10,Team Lead,Full time,Salary,R&D,Americas,-10.52
+100290209,Female,25798.5,39,Entry Level,Full time,Hourly,Research,Americas,0.0
+100022486,Male,32760.0,23,Entry Level,Full time,Hourly,Research,Americas,0.0
+100929954,Male,157500.0,6,Manager,Full time,Salary,Technology Services,Americas,16.17
+100424503,Male,60000.0,6,Team Lead,Full time,Salary,Research,Americas,0.0
+100423997,Male,172500.0,6,Team Lead,Full time,Salary,Technology Services,Americas,16.17
+100555046,Female,58499.1,9,Senior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100785227,Female,49185.38,7,Team Lead,Full time,Salary,Catering,Europe,-2.88
+100858549,Male,138000.0,10,Team Lead,Full time,Salary,Technology Services,Americas,16.17
+100385373,Female,25911.6,2,Entry Level,Full time,Hourly,Research,Americas,0.0
+100472470,Female,103500.0,6,Manager,Full time,Salary,Investment,Americas,22.35
+100771090,Male,81750.0,8,Team Lead,Full time,Salary,Customer Experience,Americas,10.48
+100585950,Male,73387.5,5,Junior Associate,Full time,Salary,Technology Services,Americas,16.17
+100245462,Female,47430.43,10,Junior Associate,Full time,Salary,Customer Experience,Asia,10.48
+100580241,Male,44157.28,11,Junior Associate,Full time,Salary,Expansion,Europe,17.29
+100505342,Female,60234.54,8,Senior Associate,Full time,Salary,Client Strategy,Europe,6.59
+100547057,Female,67500.0,5,Senior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100020641,Female,71249.4,4,Junior Associate,Full time,Salary,Expansion,Americas,17.29
+100854862,Female,44313.75,3,Junior Associate,Full time,Salary,Strategy,Americas,34.74
+100985602,Male,71250.0,13,Senior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100716545,Female,74295.54,11,Manger II,Full time,Salary,Customer Experience,Americas,10.48
+100316093,Male,168750.0,15,Team Lead,Full time,Salary,Technology Services,Americas,16.17
+100153765,Male,32760.0,4,Second Year Associate,Full time,Hourly,Catering,Americas,-2.88
+100249343,Female,33906.6,1,Second Year Associate,Full time,Hourly,Catering,Americas,-2.88
+100024274,Male,66000.0,16,Team Lead,Full time,Salary,Research,Americas,0.0
+100686770,Male,67395.3,11,Senior Associate,Full time,Salary,Customer Experience,Europe,10.48
+100168958,Female,57937.5,7,Team Lead,Full time,Salary,Catering,Americas,-2.88
+100592597,Male,29962.54,0,Second Year Associate,Full time,Salary,Investment,Europe,22.35
+100877902,Male,60000.0,5,Second Year Associate,Full time,Salary,Technology Services,Americas,16.17
+100711223,Female,58050.0,5,Team Lead,Full time,Salary,Catering,Americas,-2.88
+100516331,Male,59774.37,10,Team Lead,Full time,Salary,Catering,Americas,-2.88
+100555292,Male,47955.97,20,Team Lead,Full time,Salary,Research,Europe,0.0
+100285601,Male,66000.38,9,Junior Associate,Full time,Salary,Customer Experience,Americas,10.48
+100395811,Male,25911.6,10,Entry Level,Full time,Hourly,Research,Americas,0.0
+100323765,Female,75000.0,18,Senior Associate,Full time,Salary,Strategy,Americas,34.74
+100101535,Female,39375.0,7,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100932948,Male,120000.0,10,Manager,Full time,Salary,Investment,Americas,22.35
+100291571,Male,71070.0,24,Senior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100073839,Male,134104.27,18,Manger II,Full time,Salary,Technology Services,Europe,16.17
+100246828,Female,176250.0,9,Team Lead,Full time,Salary,Technology Services,Americas,16.17
+100566710,Female,89997.3,7,Manger II,Full time,Salary,Catering,Americas,-2.88
+100766078,Male,67837.05,8,Team Lead,Full time,Salary,Pricing Analytics,Europe,-4.56
+100360212,Female,49612.5,2,Junior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100830450,Female,135000.0,7,Team Lead,Full time,Salary,Patent Law,Americas,-16.4
+100714345,Female,30677.4,1,Second Year Associate,Full time,Hourly,Catering,Americas,-2.88
+100056618,Female,90000.0,12,Senior Associate,Full time,Salary,Expansion,Americas,17.29
+100494016,Female,20280.0,4,Entry Level,Full time,Hourly,Catering,Americas,-2.88
+100005499,Male,99000.0,7,Junior Associate,Full time,Salary,Technology Services,Americas,16.17
+100279996,Female,10351.28,2,Entry Level,Full time,Salary,Client Strategy,Americas,6.59
+100628229,Female,120000.0,9,Manager,Full time,Salary,Strategy,Americas,34.74
+100865458,Male,25910.82,8,Entry Level,Full time,Hourly,Research,Americas,0.0
+100976229,Female,46500.0,5,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100253976,Male,56250.0,4,Team Lead,Full time,Salary,Catering,Americas,-2.88
+100260008,Male,23400.0,1,Entry Level,Full time,Hourly,Research,Americas,0.0
+100843971,Female,116250.0,8,Junior Associate,Full time,Salary,Technology Services,Americas,16.17
+100947400,Male,99282.23,14,Manger II,Full time,Salary,Research,Asia,0.0
+100235096,Male,195000.0,10,Director,Full time,Salary,Leadership,Americas,37.58
+100160841,Male,86251.5,11,Team Lead,Full time,Salary,Graphic Design,Americas,27.77
+100040027,Female,67500.0,9,Team Lead,Full time,Salary,Government Consulting,Americas,0.0
+100715908,Male,102996.22,15,Manger II,Full time,Salary,Customer Experience,Europe,10.48
+100960515,Female,96562.5,5,Junior Associate,Full time,Salary,Technology Services,Americas,16.17
+100778853,Male,108750.0,12,Team Lead,Full time,Salary,Investment,Americas,22.35
+100975092,Female,58500.0,7,Team Lead,Full time,Salary,Catering,Americas,-2.88
+100405136,Male,11901.42,3,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100863829,Male,105000.0,14,Team Lead,Full time,Salary,Customer Experience,Americas,10.48
+100083418,Female,32760.0,7,Second Year Associate,Full time,Hourly,Catering,Americas,-2.88
+100326505,Male,45177.6,22,Senior Associate,Full time,Hourly,Research,Americas,0.0
+100541867,Female,14076.99,15,Junior Associate,Full time,Salary,Research,Americas,0.0
+100537014,Female,46650.0,7,Junior Associate,Full time,Salary,Government Consulting,Americas,0.0
+100802084,Female,71250.0,11,Senior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100867963,Male,60875.5,14,Senior Associate,Full time,Salary,Customer Experience,Asia,10.48
+100083781,Female,136500.0,10,Manager,Full time,Salary,IPO Strategy,Americas,-29.53
+100686079,Male,65625.0,9,Senior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100595496,Male,300000.0,20,Director,Full time,Salary,Technology Services,Americas,16.17
+100891047,Male,41749.44,9,Team Lead,Full time,Salary,Catering,Europe,-2.88
+100355512,Male,123000.0,14,Team Lead,Full time,Salary,Technology Services,Americas,16.17
+100797766,Male,187500.0,16,Manager,Full time,Salary,Technology Services,Americas,16.17
+100304068,Male,19042.27,10,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100237508,Female,48689.12,3,Junior Associate,Full time,Salary,Strategy,Europe,34.74
+100818000,Male,168750.0,16,Team Lead,Full time,Salary,Technology Services,Americas,16.17
+100261676,Female,50546.47,9,Senior Associate,Full time,Salary,Client Strategy,Europe,6.59
+100585492,Male,16423.15,8,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100576887,Male,104287.5,10,Senior Associate,Full time,Salary,Technology Services,Americas,16.17
+100416564,Female,85500.0,11,Team Lead,Full time,Salary,Customer Experience,Americas,10.48
+100741813,Female,31500.0,1,Entry Level,Full time,Salary,Client Strategy,Americas,6.59
+100792771,Male,26933.98,5,Team Lead,Full time,Salary,Catering,Americas,-2.88
+100825306,Female,112500.0,6,Manager,Full time,Salary,Technology Services,Americas,16.17
+100967842,Female,105007.5,6,Team Lead,Full time,Salary,Strategy,Americas,34.74
+100996729,Male,96562.5,6,Manager,Full time,Salary,Expansion,Americas,17.29
+100822011,Female,67800.0,5,Team Lead,Full time,Salary,Catering,Americas,-2.88
+100153248,Male,25807.82,8,Senior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100599496,Male,39000.0,3,Entry Level,Full time,Salary,Investment,Americas,22.35
+100307059,Female,67207.5,7,Senior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100756239,Male,240000.0,19,Sr Manager,Full time,Salary,Technology Services,Americas,16.17
+100951579,Male,173250.0,17,Sr Manager,Full time,Salary,Client Strategy,Americas,6.59
+100611226,Female,23400.0,7,Second Year Associate,Part time,Hourly,Catering,Americas,-2.88
+100995330,Male,119250.0,16,Manager,Full time,Salary,Technology Services,Americas,16.17
+100009380,Female,23400.0,9,Entry Level,Full time,Hourly,Research,Americas,0.0
+100777999,Male,93752.4,9,Team Lead,Full time,Salary,Customer Experience,Americas,10.48
+100154616,Female,63000.0,7,Team Lead,Full time,Salary,Catering,Americas,-2.88
+100547919,Male,26890.07,3,Team Lead,Full time,Salary,Client Strategy,Americas,6.59
+100400157,Male,42375.0,4,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100503840,Female,51498.11,12,Senior Associate,Full time,Salary,Client Strategy,Europe,6.59
+100866498,Female,57937.5,4,Second Year Associate,Full time,Salary,Customer Experience,Americas,10.48
+100513640,Female,86250.0,16,Manager,Full time,Salary,Investment,Americas,22.35
+100197362,Male,36722.84,8,Junior Associate,Full time,Salary,Catering,Europe,-2.88
+100236270,Male,63960.0,2,Junior Associate,Full time,Salary,Technology Services,Americas,16.17
+100014915,Male,16423.15,5,Second Year Associate,Full time,Salary,Expansion,Americas,17.29
+100613389,Male,73387.5,25,Team Lead,Full time,Salary,Research,Americas,0.0
+100833950,Female,46849.59,10,Junior Associate,Full time,Salary,Customer Experience,Oceania,10.48
+100585294,Male,92250.0,8,Senior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100112392,Male,39000.0,2,Second Year Associate,Full time,Hourly,Client Strategy,Americas,6.59
+100131552,Male,52500.0,3,Team Lead,Full time,Salary,Client Strategy,Americas,6.59
+100183619,Female,25910.98,25,Entry Level,Full time,Hourly,Research,Americas,0.0
+100476886,Male,57375.0,13,Junior Associate,Full time,Salary,Customer Experience,Americas,10.48
+100525723,Male,46816.46,7,Senior Associate,Full time,Salary,Customer Experience,Europe,10.48
+100881447,Male,88951.28,11,Manger II,Full time,Salary,Client Strategy,Europe,6.59
+100275238,Male,180000.0,18,Sr Manager,Full time,Salary,Client Strategy,Americas,6.59
+100729859,Male,25911.6,3,Entry Level,Full time,Hourly,Research,Americas,0.0
+100281953,Male,63000.0,4,Junior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100221089,Female,131250.0,18,Team Lead,Full time,Salary,Technology Services,Americas,16.17
+100826746,Male,67500.0,9,Senior Associate,Full time,Salary,R&D,Americas,-10.52
+100250809,Male,120000.0,5,Junior Associate,Full time,Salary,Technology Services,Americas,16.17
+100796155,Male,25911.6,12,Entry Level,Full time,Hourly,Research,Americas,0.0
+100190722,Female,46334.27,8,Junior Associate,Full time,Salary,Client Strategy,Europe,6.59
+100083122,Female,25911.6,0,Entry Level,Full time,Hourly,Research,Americas,0.0
+100490672,Male,76500.0,5,Junior Associate,Full time,Salary,Investment,Americas,22.35
+100932962,Female,109513.99,18,Manger II,Full time,Salary,Client Strategy,Europe,6.59
+100889610,Female,44007.47,4,Second Year Associate,Full time,Salary,Customer Experience,Europe,10.48
+100712150,Female,32448.0,12,Second Year Associate,Full time,Hourly,Catering,Americas,-2.88
+100335578,Female,46500.0,6,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100399251,Male,107247.0,17,Team Lead,Full time,Salary,Expansion,Americas,17.29
+100779382,Female,37500.0,3,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100366719,Male,270000.0,35,Partner,Full time,Salary,Leadership,Americas,37.58
+100688143,Male,41776.8,17,Junior Associate,Full time,Hourly,Research,Americas,0.0
+100057021,Male,118500.0,11,Team Lead,Full time,Salary,Investment,Americas,22.35
+100930785,Male,52500.0,11,Junior Associate,Full time,Salary,Research,Americas,0.0
+100930396,Female,47752.79,4,Team Lead,Full time,Salary,Catering,Europe,-2.88
+100241622,Female,45000.0,2,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100052713,Male,127462.5,12,Team Lead,Full time,Salary,Expansion,Americas,17.29
+100767588,Male,65692.62,17,Manager,Full time,Salary,Patent Law,Americas,-16.4
+100939079,Female,71250.0,4,Senior Associate,Full time,Salary,Strategy,Americas,34.74
+100043015,Male,65543.04,7,Team Lead,Full time,Salary,Pricing Analytics,Europe,-4.56
+100732967,Female,57675.0,5,Team Lead,Full time,Salary,Catering,Americas,-2.88
+100595854,Male,51000.0,10,Junior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100571208,Female,67500.0,7,Junior Associate,Full time,Salary,Customer Experience,Americas,10.48
+100445327,Male,79587.99,12,Team Lead,Full time,Salary,Customer Experience,Europe,10.48
+100367681,Male,46816.46,7,Junior Associate,Full time,Salary,Customer Experience,Europe,10.48
+100199368,Male,67500.0,7,Senior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100222999,Male,19306.49,25,Senior Associate,Full time,Salary,Research,Americas,0.0
+100985894,Female,131250.0,21,Manger II,Full time,Salary,Graphic Design,Americas,27.77
+100442921,Male,83550.0,13,Team Lead,Full time,Salary,Technology Services,Americas,16.17
+100007916,Female,67500.0,5,Senior Associate,Full time,Salary,Patent Law,Americas,-16.4
+100851023,Male,40262.16,12,Junior Associate,Full time,Salary,Expansion,Europe,17.29
+100407450,Female,62250.0,5,Senior Associate,Full time,Salary,Graphic Design,Americas,27.77
+100839727,Female,115500.0,12,Manager,Full time,Salary,Customer Experience,Americas,10.48
+100308873,Female,25911.6,14,Entry Level,Full time,Hourly,Research,Americas,0.0
+100389024,Male,16423.15,6,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100092545,Female,46350.0,2,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100260100,Male,206250.0,16,Manager,Full time,Salary,Technology Services,Americas,16.17
+100915906,Female,43500.0,4,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100134610,Male,69000.0,6,Senior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100069311,Female,99750.0,8,Manager,Full time,Salary,Client Strategy,Americas,6.59
+100490508,Male,25910.82,7,Entry Level,Full time,Hourly,Research,Americas,0.0
+100861191,Male,32760.0,0,Second Year Associate,Full time,Hourly,Catering,Americas,-2.88
+100431463,Female,60000.0,10,Senior Associate,Full time,Salary,Strategy,Americas,34.74
+100063094,Female,99187.5,4,Senior Associate,Full time,Salary,Technology Services,Americas,16.17
+100460898,Male,29713.5,10,Senior Associate,Full time,Salary,Pricing Analytics,Africa,-4.56
+100816766,Female,92287.5,10,Team Lead,Full time,Salary,Customer Experience,Americas,10.48
+100452670,Male,152625.0,23,Manger II,Full time,Salary,Technology Services,Americas,16.17
+100317054,Female,24400.12,12,Senior Associate,Full time,Salary,Customer Experience,Americas,10.48
+100739249,Male,32771.53,13,Second Year Associate,Full time,Salary,Client Strategy,Europe,6.59
+100837639,Female,92668.54,11,Manager,Full time,Salary,Client Strategy,Europe,6.59
+100258953,Male,73387.5,8,Team Lead,Full time,Salary,Strategy,Americas,34.74
+100263785,Female,48750.0,8,Second Year Associate,Full time,Hourly,Strategy,Americas,34.74
+100288341,Female,142912.5,7,Manager,Full time,Salary,R&D,Americas,-10.52
+100868745,Female,26933.98,7,Team Lead,Full time,Salary,Catering,Americas,-2.88
+100564663,Female,60000.0,13,Senior Associate,Full time,Salary,Expansion,Americas,17.29
+100431595,Female,69525.0,10,Team Lead,Full time,Salary,Strategy,Americas,34.74
+100174601,Male,47250.0,28,Junior Associate,Full time,Salary,Government Consulting,Americas,0.0
+100576187,Male,93750.0,15,Team Lead,Full time,Salary,Client Strategy,Americas,6.59
+100998990,Male,99000.0,13,Team Lead,Full time,Salary,Research,Americas,0.0
+100185215,Female,93751.88,8,Team Lead,Full time,Salary,R&D,Americas,-10.52
+100310484,Female,48750.0,13,Junior Associate,Full time,Salary,Government Consulting,Americas,0.0
+100814223,Male,88837.5,12,Team Lead,Full time,Salary,Technology Services,Americas,16.17
+100044363,Male,138193.13,14,Team Lead,Full time,Salary,Technology Services,Americas,16.17
+100787276,Male,71250.0,2,Team Lead,Full time,Salary,Expansion,Americas,17.29
+100185738,Male,60000.0,4,Senior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100134913,Female,66000.38,9,Junior Associate,Full time,Salary,Customer Experience,Americas,10.48
+100475805,Female,243750.0,22,Director,Full time,Salary,Technology Services,Americas,16.17
+100958830,Female,90000.0,10,Team Lead,Full time,Salary,Investment,Americas,22.35
+100639855,Female,29640.0,6,Second Year Associate,Full time,Hourly,Catering,Americas,-2.88
+100142192,Female,107625.0,5,Junior Associate,Full time,Salary,Technology Services,Americas,16.17
+100807966,Male,32760.0,2,Second Year Associate,Full time,Hourly,Catering,Americas,-2.88
+100141684,Male,50546.47,8,Team Lead,Full time,Salary,Client Strategy,Europe,6.59
+100947896,Female,71250.0,8,Senior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100321611,Male,93750.0,12,Team Lead,Full time,Salary,Graphic Design,Americas,27.77
+100691416,Female,25911.6,2,Entry Level,Full time,Hourly,Catering,Americas,-2.88
+100965358,Male,25910.82,14,Entry Level,Full time,Hourly,Research,Americas,0.0
+100937858,Male,65543.04,26,Manger II,Full time,Salary,Research,Europe,0.0
+100900440,Female,65025.0,8,Junior Associate,Full time,Salary,Expansion,Americas,17.29
+100235655,Male,60000.0,5,Second Year Associate,Full time,Salary,Investment,Americas,22.35
+100885542,Female,43875.0,25,Partner,Full time,Salary,Leadership,Americas,37.58
+100915045,Female,25910.82,37,Entry Level,Full time,Hourly,Research,Americas,0.0
+100100059,Male,24102.0,9,Entry Level,Full time,Hourly,Research,Americas,0.0
+100489878,Male,65543.04,16,Team Lead,Full time,Salary,Customer Experience,Europe,10.48
+100866049,Male,28998.6,12,Senior Associate,Full time,Salary,Customer Experience,Americas,10.48
+100541219,Female,57093.75,7,Team Lead,Full time,Salary,Catering,Americas,-2.88
+100591606,Female,42750.0,12,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100676464,Female,61500.0,6,Team Lead,Full time,Salary,Catering,Americas,-2.88
+100106311,Male,86250.0,35,Senior Associate,Full time,Salary,Expansion,Americas,17.29
+100156181,Female,54375.0,4,Senior Associate,Full time,Salary,Graphic Design,Americas,27.77
+100463352,Female,43875.0,3,Entry Level,Full time,Salary,Graphic Design,Americas,27.77
+100339062,Male,172408.5,10,Manger II,Full time,Salary,Technology Services,Americas,16.17
+100909446,Female,82500.0,15,Second Year Associate,Full time,Salary,Technology Services,Americas,16.17
+100685244,Female,43398.86,5,Team Lead,Full time,Salary,Research,Europe,0.0
+100584528,Male,82500.0,11,Team Lead,Full time,Salary,Investment,Americas,22.35
+100583412,Male,24102.0,9,Entry Level,Full time,Hourly,Research,Americas,0.0
+100122027,Female,46350.0,2,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100511956,Female,105000.0,18,Team Lead,Full time,Salary,Customer Experience,Americas,10.48
+100535559,Female,58500.0,11,Senior Associate,Full time,Salary,Investment,Americas,22.35
+100995286,Male,132600.0,16,Manager,Full time,Salary,Expansion,Americas,17.29
+100051229,Female,138744.38,9,Manger II,Full time,Salary,Graphic Design,Americas,27.77
+100040802,Male,22612.69,4,Senior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100370130,Female,60861.4,9,Manager,Full time,Salary,Customer Experience,Europe,10.48
+100132731,Male,96562.5,15,Team Lead,Full time,Salary,Client Strategy,Americas,6.59
+100607967,Female,41198.49,8,Junior Associate,Full time,Salary,Expansion,Europe,17.29
+100709381,Male,119737.5,14,Manager,Full time,Salary,Investment,Americas,22.35
+100994006,Female,71070.0,9,Manger II,Full time,Salary,Government Consulting,Americas,0.0
+100605131,Female,78750.0,4,Team Lead,Full time,Salary,R&D,Americas,-10.52
+100218684,Male,262500.0,39,Sr Manager,Full time,Salary,Expansion,Americas,17.29
+100986926,Male,14716.55,10,Junior Associate,Full time,Salary,Expansion,Americas,17.29
+100161168,Male,139050.0,19,Team Lead,Full time,Salary,Technology Services,Americas,16.17
+100954162,Female,28998.6,6,Senior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100785249,Female,38576.77,1,Junior Associate,Full time,Salary,Client Techology,Europe,-2.01
+100797299,Female,27800.57,4,Second Year Associate,Full time,Salary,Catering,Europe,-2.88
+100399565,Male,48001.95,5,Junior Associate,Full time,Salary,Client Techology,Americas,-2.01
+100839985,Female,25911.6,6,Entry Level,Full time,Hourly,Research,Americas,0.0
+100318562,Male,131248.5,13,Manger II,Full time,Salary,Investment,Americas,22.35
+100098601,Male,65400.0,7,Junior Associate,Full time,Salary,Customer Experience,Americas,10.48
+100586568,Male,49416.15,10,Team Lead,Full time,Salary,Research,Europe,0.0
+100375539,Male,127500.0,15,Team Lead,Full time,Salary,Technology Services,Americas,16.17
+100601384,Male,88837.5,28,Manager,Full time,Salary,Government Consulting,Americas,0.0
+100461552,Female,119850.14,11,Sr Manager,Full time,Salary,R&D,Europe,-10.52
+100922563,Female,75000.0,4,Senior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100515327,Male,31200.0,2,Second Year Associate,Part time,Hourly,Government Consulting,Americas,0.0
+100281166,Female,29784.67,4,Junior Associate,Full time,Salary,Catering,Asia,-2.88
+100647728,Male,487500.0,17,Director,Full time,Salary,Graphic Design,Americas,27.77
+100159889,Female,56250.0,0,Second Year Associate,Full time,Salary,Investment,Americas,22.35
+100538595,Female,25338.59,5,Senior Associate,Full time,Salary,Graphic Design,Americas,27.77
+100252937,Male,82500.0,26,Manager,Full time,Salary,Government Consulting,Americas,0.0
+100531367,Female,44250.0,3,Entry Level,Full time,Salary,R&D,Americas,-10.52
+100567233,Male,150000.0,17,Sr Manager,Full time,Salary,Graphic Design,Americas,27.77
+100818029,Female,49185.38,8,Team Lead,Full time,Salary,Catering,Europe,-2.88
+100046398,Female,32760.0,1,Second Year Associate,Full time,Hourly,Catering,Americas,-2.88
+100800539,Male,40500.0,10,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100912548,Female,25911.6,5,Entry Level,Full time,Hourly,Research,Americas,0.0
+100919398,Male,51000.0,6,Junior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100481718,Male,131325.0,9,Manager,Full time,Salary,Pricing Analytics,Americas,-4.56
+100508612,Male,90449.41,10,Manger II,Full time,Salary,Customer Experience,Europe,10.48
+100200599,Female,35880.0,2,Second Year Associate,Full time,Hourly,Catering,Americas,-2.88
+100207013,Male,60000.0,8,Senior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100859366,Male,25910.82,11,Entry Level,Full time,Hourly,Research,Americas,0.0
+100319267,Male,57751.88,7,Senior Associate,Full time,Salary,Client Techology,Americas,-2.01
+100225489,Male,25910.82,12,Entry Level,Full time,Hourly,Research,Americas,0.0
+100998520,Female,55046.25,9,Junior Associate,Full time,Salary,Expansion,Americas,17.29
+100254217,Female,20280.0,8,Entry Level,Full time,Hourly,Catering,Americas,-2.88
+100468611,Female,56179.76,11,Team Lead,Full time,Salary,Customer Experience,Europe,10.48
+100474851,Female,120000.0,9,Manager,Full time,Salary,R&D,Americas,-10.52
+100364460,Male,56179.76,27,Team Lead,Full time,Salary,Research,Europe,0.0
+100775632,Male,167475.0,7,Manager,Full time,Salary,Technology Services,Americas,16.17
+100048612,Female,115220.63,11,Manger II,Full time,Salary,Client Strategy,Americas,6.59
+100178638,Female,16618.67,7,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100489655,Male,75000.0,12,Team Lead,Full time,Salary,Graphic Design,Americas,27.77
+100763945,Male,13209.38,12,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100673359,Male,61500.0,4,Junior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100992333,Male,135000.0,7,Senior Associate,Full time,Salary,Technology Services,Americas,16.17
+100260765,Female,54375.0,3,Team Lead,Full time,Salary,Catering,Americas,-2.88
+100353843,Male,65662.5,8,Senior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100719802,Male,61875.0,7,Junior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100220778,Male,43818.22,24,Junior Associate,Full time,Salary,Research,Asia,0.0
+100404528,Male,120000.0,11,Team Lead,Full time,Salary,Technology Services,Americas,16.17
+100847644,Male,127462.5,5,Senior Associate,Full time,Salary,Technology Services,Americas,16.17
+100071296,Male,47628.0,5,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100590370,Male,51000.0,6,Second Year Associate,Full time,Salary,Customer Experience,Americas,10.48
+100478458,Female,135150.0,7,Manager,Full time,Salary,Pricing Analytics,Americas,-4.56
+100446785,Male,120000.0,9,Manager,Full time,Salary,Client Techology,Americas,-2.01
+100850784,Male,60000.0,25,Junior Associate,Full time,Salary,Client Techology,Americas,-2.01
+100947279,Male,132600.0,28,Manager,Full time,Salary,Expansion,Americas,17.29
+100706556,Male,169950.0,30,Sr Manager,Full time,Salary,Customer Experience,Americas,10.48
+100000274,Male,42134.82,5,Junior Associate,Full time,Salary,Customer Experience,Europe,10.48
+100749213,Female,50250.0,3,Senior Associate,Full time,Salary,Catering,Americas,-2.88
+100313799,Male,120000.0,12,Manger II,Full time,Salary,Graphic Design,Americas,27.77
+100465183,Male,75000.0,8,Junior Associate,Full time,Salary,Client Techology,Americas,-2.01
+100928248,Male,65178.0,6,Team Lead,Full time,Salary,Expansion,Americas,17.29
+100909166,Female,104793.75,6,Manger II,Full time,Salary,Expansion,Americas,17.29
+100077820,Male,25911.6,2,Entry Level,Full time,Hourly,Research,Americas,0.0
+100283312,Male,82500.0,4,Team Lead,Full time,Salary,Expansion,Americas,17.29
+100491445,Male,70847.54,7,Junior Associate,Full time,Salary,Technology Services,Europe,16.17
+100652798,Female,86250.0,5,Senior Associate,Full time,Salary,R&D,Americas,-10.52
+100353735,Male,165000.0,20,Team Lead,Full time,Salary,Technology Services,Americas,16.17
+100234463,Male,59925.08,9,Senior Associate,Full time,Salary,Expansion,Europe,17.29
+100307716,Female,37500.0,8,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100294129,Female,86250.0,4,Senior Associate,Full time,Salary,Technology Services,Americas,16.17
+100420767,Female,34644.18,7,Junior Associate,Full time,Salary,Catering,Europe,-2.88
+100447726,Female,36840.81,4,Junior Associate,Full time,Salary,Catering,Europe,-2.88
+100796646,Female,41250.0,7,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100722885,Male,146775.0,16,Manger II,Full time,Salary,Technology Services,Americas,16.17
+100103315,Male,16423.15,2,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100020625,Female,56179.76,6,Team Lead,Full time,Salary,Client Strategy,Europe,6.59
+100008416,Male,16661.99,5,Junior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100732831,Female,23070.78,6,Junior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100240977,Female,51002.25,10,Junior Associate,Full time,Salary,Expansion,Americas,17.29
+100766076,Male,58500.0,9,Senior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100075040,Male,96880.75,8,Team Lead,Full time,Salary,Technology Services,Europe,16.17
+100862931,Male,40560.0,11,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100682327,Male,67500.0,7,Senior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100560623,Female,127500.0,13,Manger II,Full time,Salary,Expansion,Americas,17.29
+100261330,Male,228905.13,25,Director,Full time,Salary,Pricing Analytics,Asia,-4.56
+100160303,Male,40560.0,20,Junior Associate,Full time,Hourly,Research,Americas,0.0
+100852835,Male,120000.0,22,Manager,Full time,Salary,Technology Services,Americas,16.17
+100485558,Male,146250.0,14,Team Lead,Full time,Salary,Technology Services,Americas,16.17
+100662204,Male,43022.3,10,Junior Associate,Full time,Salary,Client Strategy,Asia,6.59
+100313855,Male,104802.33,19,Sr Manager,Full time,Salary,Pricing Analytics,Asia,-4.56
+100930152,Female,60000.0,7,Senior Associate,Full time,Salary,R&D,Americas,-10.52
+100842231,Male,69000.0,3,Junior Associate,Full time,Salary,Customer Experience,Americas,10.48
+100083039,Male,204712.5,16,Director,Full time,Salary,Expansion,Americas,17.29
+100912512,Female,28080.0,1,Second Year Associate,Full time,Hourly,Catering,Americas,-2.88
+100451230,Male,34644.18,6,Junior Associate,Full time,Salary,Catering,Europe,-2.88
+100108838,Male,65662.5,8,Senior Associate,Full time,Salary,R&D,Americas,-10.52
+100162321,Male,65786.99,13,Junior Associate,Full time,Salary,Technology Services,Europe,16.17
+100752780,Female,214500.0,14,Sr Manager,Full time,Salary,Investment,Americas,22.35
+100560662,Male,25910.98,25,Entry Level,Full time,Hourly,Research,Americas,0.0
+100022580,Male,208575.0,21,Sr Manager,Full time,Salary,Client Techology,Americas,-2.01
+100059414,Female,54307.1,11,Team Lead,Full time,Salary,Client Strategy,Europe,6.59
+100513978,Male,41246.4,8,Entry Level,Full time,Hourly,Investment,Americas,22.35
+100515932,Male,119812.5,12,Senior Associate,Full time,Salary,Technology Services,Americas,16.17
+100624227,Female,13497.01,24,Junior Associate,Full time,Salary,Expansion,Americas,17.29
+100736049,Female,24905.4,22,Entry Level,Full time,Hourly,Research,Americas,0.0
+100090764,Female,88837.5,10,Team Lead,Full time,Salary,Expansion,Americas,17.29
+100544504,Female,51498.11,9,Senior Associate,Full time,Salary,R&D,Europe,-10.52
+100230259,Female,103275.0,8,Manager,Full time,Salary,Strategy,Americas,34.74
+100550866,Female,30529.2,0,Second Year Associate,Full time,Hourly,Catering,Americas,-2.88
+100687983,Male,24102.0,16,Entry Level,Full time,Hourly,Research,Americas,0.0
+100360810,Male,52500.0,13,Second Year Associate,Full time,Salary,Expansion,Americas,17.29
+100986349,Male,31415.15,12,Team Lead,Full time,Salary,Expansion,Americas,17.29
+100508440,Female,37453.17,7,Second Year Associate,Full time,Salary,Research,Europe,0.0
+100755488,Male,25911.6,15,Entry Level,Full time,Hourly,Research,Americas,0.0
+100789926,Female,52500.0,3,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100220284,Female,13881.32,3,Junior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100605619,Female,33930.0,28,Junior Associate,Part time,Hourly,Government Consulting,Americas,0.0
+100567097,Female,56179.76,5,Senior Associate,Full time,Salary,R&D,Europe,-10.52
+100376204,Male,82500.0,5,Team Lead,Full time,Salary,Graphic Design,Americas,27.77
+100575252,Male,25911.28,6,Entry Level,Full time,Hourly,Research,Americas,0.0
+100811994,Female,93619.95,14,Senior Associate,Full time,Salary,Technology Services,Europe,16.17
+100832833,Female,52500.0,8,Senior Associate,Full time,Salary,Catering,Americas,-2.88
+100222755,Female,60002.25,5,Team Lead,Full time,Salary,Catering,Americas,-2.88
+100808730,Female,75000.0,8,Senior Associate,Full time,Salary,IPO Strategy,Americas,-29.53
+100934400,Female,6026.88,5,Second Year Associate,Full time,Salary,R&D,Americas,-10.52
+100899484,Female,36004.8,0,Second Year Associate,Full time,Hourly,Catering,Americas,-2.88
+100422477,Male,17852.13,6,Junior Associate,Full time,Salary,Pricing Analytics,Americas,-4.56
+100542460,Female,138750.0,10,Sr Manager,Full time,Salary,Graphic Design,Americas,27.77
+100177224,Male,63750.0,6,Junior Associate,Full time,Salary,Strategy,Americas,34.74
+100035964,Male,12077.21,4,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100167845,Female,34210.61,10,Junior Associate,Full time,Salary,Catering,Oceania,-2.88
+100425861,Female,48750.0,15,Junior Associate,Full time,Salary,Government Consulting,Americas,0.0
+100328804,Male,39712.9,3,Senior Associate,Full time,Salary,Investment,Asia,22.35
+100904152,Female,128253.75,12,Manger II,Full time,Salary,Investment,Americas,22.35
+100041183,Female,126872.61,22,Sr Manager,Full time,Salary,R&D,Europe,-10.52
+100502081,Male,54000.0,4,Junior Associate,Full time,Salary,Expansion,Americas,17.29
+100668463,Male,24102.0,27,Entry Level,Full time,Hourly,Research,Americas,0.0
+100721136,Female,6664.79,3,Second Year Associate,Full time,Salary,Customer Experience,Americas,10.48
+100914773,Female,80031.92,23,Team Lead,Full time,Salary,Expansion,Europe,17.29
+100554266,Female,131250.0,8,Manager,Full time,Salary,Patent Law,Americas,-16.4
+100521983,Female,131250.0,18,Sr Manager,Full time,Salary,Client Strategy,Americas,6.59
+100729758,Male,50212.5,1,Second Year Associate,Full time,Salary,Investment,Americas,22.35
+100124570,Male,94842.0,10,Manager,Full time,Salary,Strategy,Americas,34.74
+100265801,Male,56250.0,11,Junior Associate,Full time,Salary,Government Consulting,Americas,0.0
+100313542,Male,101843.32,8,Senior Associate,Full time,Salary,Technology Services,Europe,16.17
+100588833,Male,25807.82,13,Senior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100855239,Male,90000.0,14,Team Lead,Full time,Salary,Research,Americas,0.0
+100951839,Female,36722.84,8,Junior Associate,Full time,Salary,Catering,Europe,-2.88
+100302009,Male,44943.8,3,Junior Associate,Full time,Salary,Strategy,Europe,34.74
+100590194,Male,54043.5,5,Second Year Associate,Full time,Salary,Investment,Americas,22.35
+100011365,Male,143258.38,13,Manager,Full time,Salary,Pricing Analytics,Europe,-4.56
+100510238,Male,230550.0,22,Sr Manager,Full time,Salary,Technology Services,Americas,16.17
+100165599,Female,32012.77,5,Junior Associate,Full time,Salary,Catering,Europe,-2.88
+100817763,Female,72000.0,9,Team Lead,Full time,Salary,Client Strategy,Americas,6.59
+100989200,Male,30969.38,7,Junior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100625268,Male,23400.0,17,Entry Level,Full time,Hourly,Research,Americas,0.0
+100285315,Male,63750.0,9,Team Lead,Full time,Salary,Catering,Americas,-2.88
+100888937,Female,112500.0,15,Manger II,Full time,Salary,Catering,Americas,-2.88
+100652501,Female,15250.07,2,Junior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100506609,Female,52500.0,4,Junior Associate,Full time,Salary,R&D,Americas,-10.52
+100403764,Female,180000.0,21,Sr Manager,Full time,Salary,Catering,Americas,-2.88
+100041101,Female,45729.0,4,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100231212,Male,46350.0,2,Second Year Associate,Full time,Salary,Expansion,Americas,17.29
+100663147,Female,71250.0,4,Junior Associate,Full time,Salary,Customer Experience,Americas,10.48
+100037357,Male,63750.0,3,Junior Associate,Full time,Salary,R&D,Americas,-10.52
+100334241,Female,32760.0,3,Second Year Associate,Full time,Hourly,Catering,Americas,-2.88
+100147655,Male,33697.65,5,Junior Associate,Full time,Salary,Client Strategy,Europe,6.59
+100785139,Male,37453.17,2,Junior Associate,Full time,Salary,Government Consulting,Europe,0.0
+100251895,Male,47262.75,8,Senior Associate,Full time,Salary,Catering,Americas,-2.88
+100948727,Female,50212.5,4,Junior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100708592,Female,93750.0,10,Manager,Full time,Salary,IPO Strategy,Americas,-29.53
+100668872,Male,75750.0,10,Junior Associate,Full time,Salary,Client Techology,Americas,-2.01
+100094149,Female,48750.0,12,Junior Associate,Full time,Salary,Expansion,Americas,17.29
+100039438,Male,39594.74,5,Team Lead,Full time,Salary,Catering,Europe,-2.88
+100232015,Male,48360.38,8,Senior Associate,Full time,Salary,Graphic Design,Americas,27.77
+100990792,Male,43965.74,3,Team Lead,Full time,Salary,Catering,Oceania,-2.88
+100178179,Female,90000.0,9,Senior Associate,Full time,Salary,Graphic Design,Americas,27.77
+100678990,Female,25910.98,28,Entry Level,Full time,Hourly,Research,Americas,0.0
+100381152,Female,123750.0,11,Manager,Full time,Salary,Strategy,Americas,34.74
+100500246,Female,58970.89,10,Senior Associate,Full time,Salary,Strategy,Europe,34.74
+100612001,Female,32760.0,0,Second Year Associate,Full time,Hourly,Catering,Americas,-2.88
+100616526,Female,67842.86,7,Team Lead,Full time,Salary,Client Strategy,Asia,6.59
+100888401,Female,50700.0,9,Junior Associate,Full time,Hourly,Catering,Americas,-2.88
+100997161,Female,37909.86,9,Junior Associate,Full time,Salary,Catering,Europe,-2.88
+100897980,Male,76500.0,5,Senior Associate,Full time,Salary,Customer Experience,Americas,10.48
+100849746,Female,143062.5,9,Manager,Full time,Salary,Patent Law,Americas,-16.4
+100666895,Male,32846.31,9,Manger II,Full time,Salary,Catering,Americas,-2.88
+100327983,Male,52498.5,8,Second Year Associate,Full time,Salary,Technology Services,Americas,16.17
+100504696,Male,65629.2,14,Team Lead,Full time,Salary,Expansion,Europe,17.29
+100769805,Male,135000.0,18,Director II,Full time,Salary,Leadership,Americas,37.58
+100067014,Female,34644.18,2,Junior Associate,Full time,Salary,Catering,Europe,-2.88
+100469687,Male,82500.0,3,Team Lead,Full time,Salary,Technology Services,Americas,16.17
+100557569,Male,107625.0,7,Senior Associate,Full time,Salary,Technology Services,Americas,16.17
+100307836,Male,117977.48,13,Manger II,Full time,Salary,Patent Law,Europe,-16.4
+100914809,Female,13091.56,2,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100570105,Male,48750.0,6,Junior Associate,Full time,Salary,Government Consulting,Americas,0.0
+100765053,Female,11730.82,2,Second Year Associate,Full time,Salary,Catering,Americas,-2.88
+100311563,Male,60000.0,8,Junior Associate,Full time,Salary,Customer Experience,Americas,10.48
+100553904,Male,67500.0,23,Junior Associate,Full time,Salary,Client Techology,Americas,-2.01
+100678943,Female,55245.02,9,Senior Associate,Full time,Salary,Expansion,Europe,17.29
+100184953,Female,73500.0,5,Senior Associate,Full time,Salary,Investment,Americas,22.35
+100486197,Male,69525.0,9,Senior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100645144,Female,23751.0,8,Entry Level,Full time,Hourly,Research,Americas,0.0
+100520322,Male,97500.0,14,Junior Associate,Full time,Salary,Technology Services,Americas,16.17
+100025847,Female,65250.0,8,Team Lead,Full time,Salary,Catering,Americas,-2.88
+100980571,Male,98437.5,8,Team Lead,Full time,Salary,Customer Experience,Americas,10.48
+100093912,Male,123750.0,26,Team Lead,Full time,Salary,Expansion,Americas,17.29
+100233944,Male,60000.0,11,Junior Associate,Full time,Salary,Client Techology,Americas,-2.01
+100800368,Female,120000.0,17,Team Lead,Full time,Salary,Technology Services,Americas,16.17
+100405842,Female,57000.0,9,Junior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100811299,Female,67500.0,8,Senior Associate,Full time,Salary,Customer Experience,Americas,10.48
+100691057,Female,84000.0,7,Team Lead,Full time,Salary,Strategy,Americas,34.74
+100883331,Male,225000.0,20,Sr Manager,Full time,Salary,Technology Services,Americas,16.17
+100111312,Male,57750.0,17,Senior Associate,Full time,Salary,Customer Experience,Americas,10.48
+100909646,Male,300000.0,20,Director,Full time,Salary,Technology Services,Americas,16.17
+100668981,Female,97500.0,16,Manager,Full time,Salary,Client Strategy,Americas,6.59
+100467214,Female,25911.6,3,Entry Level,Full time,Hourly,Research,Americas,0.0
+100834995,Female,46849.59,8,Junior Associate,Full time,Salary,Client Strategy,Oceania,6.59
+100999981,Female,11730.82,2,Second Year Associate,Full time,Salary,Client Strategy,Americas,6.59
+100897476,Female,12077.12,4,Junior Associate,Full time,Salary,Customer Experience,Americas,10.48
+100414604,Male,94500.0,15,Team Lead,Full time,Salary,Technology Services,Americas,16.17
+100894429,Male,48750.0,6,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100537629,Male,225000.0,8,Sr Manager,Full time,Salary,Pricing Analytics,Americas,-4.56
+100754087,Female,60000.0,24,Team Lead,Full time,Salary,Catering,Americas,-2.88
+100042339,Female,101250.0,12,Manager,Full time,Salary,Strategy,Americas,34.74
+100914724,Male,58500.0,4,Second Year Associate,Full time,Salary,Investment,Americas,22.35
+100471952,Male,46575.0,1,Junior Associate,Full time,Salary,Expansion,Americas,17.29
+100721703,Female,67500.0,9,Senior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100448002,Male,25911.6,12,Entry Level,Full time,Hourly,Research,Americas,0.0
+100680921,Female,134997.0,7,Manger II,Full time,Salary,Technology Services,Americas,16.17
+100846320,Male,84803.58,15,Team Lead,Full time,Salary,Expansion,Asia,17.29
+100070029,Male,51498.11,7,Junior Associate,Full time,Salary,Strategy,Europe,34.74
+100789206,Male,30828.61,6,Team Lead,Full time,Salary,Client Strategy,Americas,6.59
+100209888,Male,93750.0,4,Team Lead,Full time,Salary,Strategy,Americas,34.74
+100481812,Female,56250.0,6,Second Year Associate,Full time,Salary,Technology Services,Americas,16.17
+100501197,Female,33754.67,6,Second Year Associate,Full time,Salary,Client Strategy,Europe,6.59
+100801700,Male,65543.04,7,Senior Associate,Full time,Salary,Client Strategy,Europe,6.59
+100505342,Male,75000.0,8,Junior Associate,Full time,Salary,Technology Services,Americas,16.17
+100240562,Female,94500.0,12,Manager,Full time,Salary,Client Strategy,Americas,6.59
+100337710,Female,60547.5,15,Junior Associate,Full time,Salary,Investment,Americas,22.35
+100870060,Female,43200.0,3,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100228745,Female,32771.53,13,Junior Associate,Full time,Salary,Investment,Europe,22.35
+100902669,Female,36720.0,10,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100845089,Female,37067.41,5,Junior Associate,Full time,Salary,Catering,Europe,-2.88
+100008295,Male,8473.81,30,Second Year Associate,Full time,Salary,Expansion,Americas,17.29
+100914461,Female,75000.0,8,Senior Associate,Full time,Salary,R&D,Americas,-10.52
+100496053,Female,57000.0,6,Second Year Associate,Full time,Salary,Investment,Americas,22.35
+100648773,Male,40170.0,21,Junior Associate,Full time,Hourly,Research,Americas,0.0
+100494410,Male,131159.12,14,Manger II,Full time,Salary,Technology Services,Europe,16.17
+100288548,Male,225000.0,16,Manger II,Full time,Salary,Client Strategy,Americas,6.59
+100097063,Female,24102.0,5,Entry Level,Full time,Hourly,Research,Americas,0.0
+100837820,Male,54847.5,6,Junior Associate,Full time,Salary,Expansion,Americas,17.29
+100456755,Male,120000.0,5,Junior Associate,Full time,Salary,Technology Services,Americas,16.17
+100486266,Female,43875.0,1,Entry Level,Full time,Salary,Investment,Americas,22.35
+100903999,Male,51480.0,20,Junior Associate,Full time,Hourly,Research,Americas,0.0
+100262628,Male,131250.0,8,Senior Associate,Full time,Salary,Technology Services,Americas,16.17
+100087070,Male,116250.0,6,Manager,Full time,Salary,Client Strategy,Americas,6.59
+100239989,Male,23400.0,2,Entry Level,Full time,Hourly,Research,Americas,0.0
+100137359,Male,21422.56,7,Junior Associate,Full time,Salary,Expansion,Americas,17.29
+100086859,Male,46500.0,0,Junior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100538778,Male,131249.25,12,Manager,Full time,Salary,Technology Services,Americas,16.17
+100112083,Male,318750.0,23,Director,Full time,Salary,Technology Services,Americas,16.17
+100197754,Female,176250.0,16,Sr Manager,Full time,Salary,Pricing Analytics,Americas,-4.56
+100214677,Female,43875.0,11,Entry Level,Full time,Salary,Investment,Americas,22.35
+100042863,Female,111872.61,13,Manager,Full time,Salary,Pricing Analytics,Europe,-4.56
+100326356,Male,138750.0,11,Manger II,Full time,Salary,Expansion,Americas,17.29
+100804499,Female,146250.0,31,Manger II,Full time,Salary,Technology Services,Americas,16.17
+100119236,Female,25910.82,13,Entry Level,Full time,Hourly,Research,Americas,0.0
+100337930,Male,55500.0,9,Junior Associate,Full time,Salary,Client Techology,Americas,-2.01
+100465329,Female,15709.88,11,Senior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100023736,Female,37453.17,3,Junior Associate,Full time,Salary,Government Consulting,Europe,0.0
+100043400,Male,25911.6,19,Entry Level,Full time,Hourly,Research,Americas,0.0
+100101494,Female,108750.0,8,Manger II,Full time,Salary,Government Consulting,Americas,0.0
+100346748,Male,72753.38,10,Team Lead,Full time,Salary,Client Techology,Americas,-2.01
+100864251,Male,108750.0,19,Junior Associate,Full time,Salary,Technology Services,Americas,16.17
+100990744,Male,195000.0,14,Manager,Full time,Salary,Technology Services,Americas,16.17
+100761835,Female,28401.21,23,Entry Level,Full time,Salary,Client Strategy,Asia,6.59
+100275261,Female,34644.18,3,Junior Associate,Full time,Salary,Catering,Europe,-2.88
+100745435,Female,52500.0,6,Team Lead,Full time,Salary,Catering,Americas,-2.88
+100163135,Female,32101.26,8,Second Year Associate,Full time,Salary,Investment,Asia,22.35
+100271775,Male,118125.0,14,Manager,Full time,Salary,Investment,Americas,22.35
+100703816,Male,71250.0,9,Senior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100121234,Female,59863.37,9,Manager,Full time,Salary,IPO Strategy,Oceania,-29.53
+100073962,Female,28875.0,0,Entry Level,Full time,Salary,Client Strategy,Americas,6.59
+100115535,Male,43875.0,2,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100641310,Female,34644.18,3,Junior Associate,Full time,Salary,Catering,Europe,-2.88
+100063312,Female,11408.0,8,Junior Associate,Full time,Salary,Expansion,Americas,17.29
+100299782,Female,21840.0,1,Entry Level,Full time,Hourly,Research,Americas,0.0
+100972482,Male,93632.92,20,Manager,Full time,Salary,Customer Experience,Europe,10.48
+100665834,Female,101250.0,6,Senior Associate,Full time,Salary,Technology Services,Americas,16.17
+100719734,Male,101250.0,20,Manager,Full time,Salary,Government Consulting,Americas,0.0
+100208539,Female,52839.0,11,Team Lead,Full time,Salary,Catering,Americas,-2.88
+100107523,Male,67500.0,5,Junior Associate,Full time,Salary,Investment,Americas,22.35
+100640166,Male,187500.0,22,Manger II,Full time,Salary,Technology Services,Americas,16.17
+100173875,Male,142503.75,8,Manger II,Full time,Salary,R&D,Americas,-10.52
+100409122,Female,29519.14,2,Junior Associate,Full time,Salary,Catering,Europe,-2.88
+100522745,Male,50546.47,11,Team Lead,Full time,Salary,Client Strategy,Europe,6.59
+100219035,Male,86250.0,15,Senior Associate,Full time,Salary,Customer Experience,Americas,10.48
+100141225,Male,40170.0,11,Entry Level,Full time,Hourly,Investment,Americas,22.35
+100114030,Male,315000.0,13,Director,Full time,Salary,Technology Services,Americas,16.17
+100041947,Female,25911.6,14,Entry Level,Full time,Hourly,Research,Americas,0.0
+100715923,Male,75000.0,13,Junior Associate,Full time,Salary,Customer Experience,Americas,10.48
+100050461,Female,89251.5,14,Team Lead,Full time,Salary,Investment,Americas,22.35
+100341168,Male,75000.0,13,Junior Associate,Full time,Salary,Customer Experience,Americas,10.48
+100012423,Male,116250.0,9,Junior Associate,Full time,Salary,Technology Services,Americas,16.17
+100547721,Male,22620.0,5,Junior Associate,Part time,Hourly,Government Consulting,Americas,0.0
+100755656,Male,40560.0,23,Junior Associate,Full time,Hourly,Research,Americas,0.0
+100926241,Female,30677.4,6,Second Year Associate,Full time,Hourly,Catering,Americas,-2.88
+100102997,Female,33750.0,2,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100259136,Female,71250.0,6,Team Lead,Full time,Salary,Client Strategy,Americas,6.59
+100480517,Female,60000.0,8,Entry Level,Full time,Salary,Expansion,Americas,17.29
+100477300,Male,86250.0,10,Senior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100636573,Female,58202.55,5,Team Lead,Full time,Salary,Catering,Americas,-2.88
+100818439,Female,71250.0,6,Senior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100429154,Female,45678.43,19,Team Lead,Full time,Salary,Customer Experience,Americas,10.48
+100599012,Male,86044.61,12,Manger II,Full time,Salary,Customer Experience,Asia,10.48
+100209321,Male,209992.5,22,Manger II,Full time,Salary,Technology Services,Americas,16.17
+100963279,Male,176250.0,20,Sr Manager,Full time,Salary,Pricing Analytics,Americas,-4.56
+100234522,Male,64500.0,4,Junior Associate,Full time,Salary,Expansion,Americas,17.29
+100712376,Male,187500.0,22,Manger II,Full time,Salary,Client Strategy,Americas,6.59
+100845022,Male,228750.0,27,Manger II,Full time,Salary,Technology Services,Americas,16.17
+100834727,Male,165000.75,11,Manager,Full time,Salary,Patent Law,Americas,-16.4
+100667462,Male,129756.0,17,Manger II,Full time,Salary,Client Strategy,Americas,6.59
+100339533,Male,131250.0,12,Senior Associate,Full time,Salary,Technology Services,Americas,16.17
+100847501,Female,46334.27,4,Senior Associate,Full time,Salary,Client Strategy,Europe,6.59
+100868910,Male,162225.0,14,Manger II,Full time,Salary,Technology Services,Americas,16.17
+100279892,Male,73575.0,8,Senior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100212315,Male,88500.0,9,Senior Associate,Full time,Salary,Technology Services,Americas,16.17
+100184329,Male,157500.0,8,Senior Associate,Full time,Salary,Technology Services,Americas,16.17
+100826876,Female,93619.95,2,Senior Associate,Full time,Salary,Technology Services,Europe,16.17
+100517005,Male,67500.0,2,Team Lead,Full time,Salary,Expansion,Americas,17.29
+100791783,Male,76779.0,6,Team Lead,Full time,Salary,Investment,Europe,22.35
+100468564,Female,16661.99,7,Junior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100972856,Female,31200.0,2,Second Year Associate,Full time,Hourly,Catering,Americas,-2.88
+100743838,Male,67500.0,8,Junior Associate,Full time,Salary,Expansion,Americas,17.29
+100018114,Male,195000.0,23,Manager,Full time,Salary,Technology Services,Americas,16.17
+100288519,Male,25911.6,17,Entry Level,Full time,Hourly,Research,Americas,0.0
+100519118,Male,153750.0,11,Sr Manager,Full time,Salary,Expansion,Americas,17.29
+100676180,Male,67500.0,4,Junior Associate,Full time,Salary,Pricing Analytics,Americas,-4.56
+100449061,Male,31200.0,7,Second Year Associate,Full time,Hourly,Catering,Americas,-2.88
+100862481,Male,86250.0,19,Senior Associate,Full time,Salary,Customer Experience,Americas,10.48
+100757492,Female,150000.0,7,Senior Associate,Full time,Salary,Technology Services,Americas,16.17
+100918927,Male,57165.0,6,Junior Associate,Full time,Salary,Client Techology,Americas,-2.01
+100214427,Female,48750.0,1,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100707855,Female,98314.57,11,Team Lead,Full time,Salary,Expansion,Europe,17.29
+100914057,Female,25910.82,14,Entry Level,Full time,Hourly,Research,Americas,0.0
+100410911,Female,102996.22,15,Manger II,Full time,Salary,Graphic Design,Europe,27.77
+100072778,Male,77250.0,15,Senior Associate,Full time,Salary,Customer Experience,Americas,10.48
+100852062,Male,37909.86,8,Team Lead,Full time,Salary,Catering,Europe,-2.88
+100687963,Female,59569.34,16,Team Lead,Full time,Salary,Technology Services,Asia,16.17
+100109565,Male,65981.25,4,Junior Associate,Full time,Salary,Expansion,Americas,17.29
+100380104,Male,168750.0,14,Director,Full time,Salary,Client Strategy,Americas,6.59
+100031950,Female,108750.0,6,Junior Associate,Full time,Salary,Technology Services,Americas,16.17
+100556571,Female,39562.5,5,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100914894,Female,60000.0,25,Junior Associate,Full time,Salary,Government Consulting,Americas,0.0
+100225438,Female,71250.0,5,Senior Associate,Full time,Salary,R&D,Americas,-10.52
+100656413,Male,78750.0,5,Team Lead,Full time,Salary,Strategy,Americas,34.74
+100572388,Male,25911.52,20,Entry Level,Full time,Hourly,Research,Americas,0.0
+100620117,Female,71400.0,8,Manger II,Full time,Salary,Catering,Americas,-2.88
+100147777,Male,23461.65,6,Senior Associate,Full time,Salary,Catering,Americas,-2.88
+100262998,Male,154500.0,14,Team Lead,Full time,Salary,Technology Services,Americas,16.17
+100401190,Male,57260.61,5,Team Lead,Full time,Salary,Pricing Analytics,Oceania,-4.56
+100168526,Male,750000.0,29,Director II,Full time,Salary,Leadership,Americas,37.58
+100548782,Male,47239.92,6,Junior Associate,Full time,Hourly,Research,Americas,0.0
+100602327,Female,67500.0,8,Senior Associate,Full time,Salary,Government Consulting,Americas,0.0
+100536939,Female,92493.0,10,Team Lead,Full time,Salary,Graphic Design,Americas,27.77
+100263433,Male,31290.29,5,Junior Associate,Full time,Salary,Catering,Europe,-2.88
+100972741,Female,19144.71,5,Junior Associate,Full time,Salary,Expansion,Americas,17.29
+100120032,Male,70875.0,4,Team Lead,Full time,Salary,Client Strategy,Americas,6.59
+100322186,Male,72000.0,9,Senior Associate,Full time,Salary,Customer Experience,Americas,10.48
+100202250,Female,50546.47,7,Senior Associate,Full time,Salary,Client Strategy,Europe,6.59
+100313014,Female,73500.0,6,Junior Associate,Full time,Salary,Investment,Americas,22.35
+100727969,Male,146250.0,28,Manger II,Full time,Salary,Expansion,Americas,17.29
+100666702,Male,61027.5,9,Team Lead,Full time,Salary,Catering,Americas,-2.88
+100899303,Male,80514.0,10,Junior Associate,Full time,Salary,R&D,Americas,-10.52
+100755218,Female,108750.0,13,Team Lead,Full time,Salary,Technology Services,Americas,16.17
+100962538,Female,123600.0,13,Team Lead,Full time,Salary,Technology Services,Americas,16.17
+100228084,Female,28080.0,2,Second Year Associate,Full time,Hourly,Catering,Americas,-2.88
+100548104,Male,105000.0,6,Senior Associate,Full time,Salary,Technology Services,Americas,16.17
+100680417,Male,105000.0,10,Manager,Full time,Salary,Client Strategy,Americas,6.59
+100401769,Male,116250.0,7,Team Lead,Full time,Salary,R&D,Americas,-10.52
+100783365,Male,131250.0,8,Manager,Full time,Salary,Investment,Americas,22.35
+100548381,Female,30529.2,2,Second Year Associate,Full time,Hourly,Catering,Americas,-2.88
+100189493,Female,56250.0,6,Junior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100072614,Male,99034.72,27,Manager,Full time,Salary,Technology Services,Europe,16.17
+100529801,Female,23400.0,14,Entry Level,Full time,Hourly,Catering,Americas,-2.88
+100684271,Female,73033.68,9,Manager,Full time,Salary,Graphic Design,Europe,27.77
+100452760,Female,50700.0,2,Junior Associate,Full time,Hourly,Patent Law,Americas,-16.4
+100307737,Female,45000.0,9,Junior Associate,Full time,Salary,Government Consulting,Americas,0.0
+100430941,Male,34890.0,5,Junior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100772347,Female,153750.0,9,Team Lead,Full time,Salary,Technology Services,Americas,16.17
+100767726,Male,187500.0,39,Director,Full time,Salary,Research,Americas,0.0
+100938361,Female,48750.0,19,Senior Associate,Full time,Salary,Investment,Americas,22.35
+100174153,Female,54862.5,10,Team Lead,Full time,Salary,Strategy,Americas,34.74
+100301552,Male,141960.0,15,Manager,Full time,Salary,Technology Services,Americas,16.17
+100922493,Male,162225.0,11,Team Lead,Full time,Salary,Technology Services,Americas,16.17
+100913450,Male,78750.0,2,Team Lead,Full time,Salary,Research,Americas,0.0
+100075024,Male,127500.0,15,Senior Associate,Full time,Salary,Technology Services,Americas,16.17
+100914320,Female,37909.86,3,Junior Associate,Full time,Salary,Catering,Europe,-2.88
+100960852,Male,142500.0,12,Team Lead,Full time,Salary,Technology Services,Americas,16.17
+100711425,Female,35683.51,8,Junior Associate,Full time,Salary,Catering,Europe,-2.88
+100872892,Male,58005.48,24,Second Year Associate,Full time,Salary,Client Techology,Americas,-2.01
+100795350,Male,90000.0,24,Team Lead,Full time,Salary,Expansion,Americas,17.29
+100146366,Female,45000.0,7,Second Year Associate,Full time,Salary,Customer Experience,Americas,10.48
+100186852,Male,45240.0,15,Junior Associate,Full time,Hourly,Research,Americas,0.0
+100098315,Male,54075.0,5,Team Lead,Full time,Salary,Client Strategy,Americas,6.59
+100002239,Male,112498.88,9,Manger II,Full time,Salary,Strategy,Americas,34.74
+100350041,Male,25749.05,3,Second Year Associate,Full time,Salary,Catering,Europe,-2.88
+100734995,Female,45000.0,3,Second Year Associate,Full time,Salary,Strategy,Americas,34.74
+100594002,Female,32274.16,4,Junior Associate,Full time,Salary,Catering,Oceania,-2.88
+100337856,Female,86250.0,9,Team Lead,Full time,Salary,Graphic Design,Americas,27.77
+100844231,Male,88837.5,6,Junior Associate,Full time,Salary,Technology Services,Americas,16.17
+100175119,Female,111000.0,7,Junior Associate,Full time,Salary,Technology Services,Americas,16.17
+100652439,Female,101250.0,7,Senior Associate,Full time,Salary,Technology Services,Americas,16.17
+100556154,Female,135000.0,27,Manager,Full time,Salary,Investment,Americas,22.35
+100189470,Female,42375.0,2,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100050029,Male,94885.09,20,Senior Associate,Full time,Salary,Expansion,Europe,17.29
+100754258,Male,103595.2,10,Director,Full time,Salary,Leadership,Americas,37.58
+100008517,Female,138750.0,11,Manager,Full time,Salary,Technology Services,Americas,16.17
+100088511,Male,39000.0,14,Junior Associate,Full time,Hourly,Research,Americas,0.0
+100080619,Male,60000.0,4,Junior Associate,Full time,Salary,Technology Services,Americas,16.17
+100580324,Female,126404.45,13,Manger II,Full time,Salary,Pricing Analytics,Europe,-4.56
+100659875,Female,86250.0,8,Team Lead,Full time,Salary,R&D,Americas,-10.52
+100293022,Female,29519.14,4,Junior Associate,Full time,Salary,Catering,Europe,-2.88
+100842755,Male,82500.0,4,Senior Associate,Full time,Salary,Investment,Americas,22.35
+100750360,Female,25910.98,18,Entry Level,Full time,Hourly,Research,Americas,0.0
+100675182,Female,84375.0,6,Team Lead,Full time,Salary,Client Strategy,Americas,6.59
+100946061,Male,231750.0,18,Director,Full time,Salary,Expansion,Americas,17.29
+100709323,Female,51626.77,16,Senior Associate,Full time,Salary,R&D,Asia,-10.52
+100229520,Male,172507.5,10,Sr Manager,Full time,Salary,Strategy,Americas,34.74
+100668808,Male,206250.0,14,Director,Full time,Salary,Investment,Americas,22.35
+100490337,Male,67500.0,8,Team Lead,Full time,Salary,Government Consulting,Americas,0.0
+100237470,Female,61875.0,7,Entry Level,Full time,Salary,Investment,Americas,22.35
+100587502,Female,33742.8,8,Second Year Associate,Full time,Hourly,Catering,Americas,-2.88
+100650662,Female,80325.0,13,Senior Associate,Full time,Salary,Strategy,Americas,34.74
+100565986,Male,337500.0,19,Director II,Full time,Salary,Graphic Design,Americas,27.77
+100558283,Male,48750.0,6,Junior Associate,Full time,Salary,Government Consulting,Americas,0.0
+100833624,Male,270375.0,22,Director II,Full time,Salary,Leadership,Americas,37.58
+100217390,Female,46500.0,4,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100385827,Female,82500.0,17,Team Lead,Full time,Salary,Patent Law,Americas,-16.4
+100868508,Male,30898.87,1,Junior Associate,Full time,Salary,Client Strategy,Europe,6.59
+100054732,Female,42750.0,2,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100505957,Female,67500.0,7,Senior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100316510,Male,168750.0,15,Sr Manager,Full time,Salary,Research,Americas,0.0
+100058575,Female,55598.06,7,Manager,Full time,Salary,Catering,Asia,-2.88
+100422335,Male,80325.0,9,Team Lead,Full time,Salary,Customer Experience,Americas,10.48
+100179291,Female,11574.1,1,Entry Level,Full time,Salary,Catering,Americas,-2.88
+100627363,Female,18365.78,8,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100211716,Female,57165.0,6,Second Year Associate,Full time,Salary,Strategy,Americas,34.74
+100264617,Female,27846.0,3,Second Year Associate,Full time,Hourly,Catering,Americas,-2.88
+100050774,Female,34644.18,3,Junior Associate,Full time,Salary,Catering,Europe,-2.88
+100796955,Female,13859.74,9,Junior Associate,Full time,Salary,Customer Experience,Americas,10.48
+100210169,Female,30529.2,21,Entry Level,Full time,Hourly,Research,Americas,0.0
+100143935,Male,108150.0,5,Team Lead,Full time,Salary,Strategy,Americas,34.74
+100420704,Female,69750.0,11,Team Lead,Full time,Salary,IPO Strategy,Americas,-29.53
+100392097,Female,29485.45,16,Second Year Associate,Full time,Salary,Catering,Europe,-2.88
+100019838,Male,206250.0,27,Manger II,Full time,Salary,Pricing Analytics,Americas,-4.56
+100667797,Male,112500.0,16,Manger II,Full time,Salary,Customer Experience,Americas,10.48
+100172968,Male,76500.0,6,Team Lead,Full time,Salary,Client Strategy,Americas,6.59
+100773072,Female,45574.24,10,Team Lead,Full time,Salary,Catering,Oceania,-2.88
+100594647,Male,67500.0,6,Junior Associate,Full time,Salary,Customer Experience,Americas,10.48
+100116637,Male,129975.0,14,Team Lead,Full time,Salary,Technology Services,Americas,16.17
+100439656,Male,37502.4,37,Junior Associate,Full time,Hourly,Research,Americas,0.0
+100246635,Male,115875.0,12,Senior Associate,Full time,Salary,Technology Services,Americas,16.17
+100870909,Female,55125.0,3,Junior Associate,Full time,Salary,Customer Experience,Americas,10.48
+100167958,Female,52500.0,10,Team Lead,Full time,Salary,Catering,Americas,-2.88
+100787007,Female,45000.0,2,Junior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100344637,Male,42465.15,26,Second Year Associate,Full time,Hourly,Catering,Americas,-2.88
+100684738,Male,51000.0,6,Junior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100288111,Female,45000.0,9,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100627678,Male,44496.0,5,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100931991,Male,75000.0,4,Junior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100758425,Female,51498.11,22,Team Lead,Full time,Salary,Customer Experience,Europe,10.48
+100269115,Male,61945.57,11,Senior Associate,Full time,Salary,Client Strategy,Oceania,6.59
+100094305,Male,56179.76,27,Junior Associate,Full time,Salary,Expansion,Europe,17.29
+100452163,Male,37909.86,15,Junior Associate,Full time,Salary,Catering,Europe,-2.88
+100375181,Female,34320.0,5,Second Year Associate,Full time,Hourly,Catering,Americas,-2.88
+100679528,Male,56179.76,30,Junior Associate,Full time,Salary,Customer Experience,Europe,10.48
+100935397,Female,37174.8,3,Second Year Associate,Full time,Hourly,Catering,Americas,-2.88
+100972313,Female,52260.0,2,Junior Associate,Full time,Hourly,Catering,Americas,-2.88
+100127013,Female,82498.5,13,Senior Associate,Full time,Salary,Technology Services,Americas,16.17
+100574981,Male,84269.63,16,Team Lead,Full time,Salary,Client Strategy,Europe,6.59
+100603743,Female,25910.98,12,Entry Level,Full time,Hourly,Research,Americas,0.0
+100352014,Female,21840.0,11,Entry Level,Full time,Hourly,Catering,Americas,-2.88
+100862690,Male,54307.1,18,Team Lead,Full time,Salary,Client Strategy,Europe,6.59
+100986491,Female,48000.0,10,Second Year Associate,Full time,Salary,Client Strategy,Americas,6.59
+100435329,Female,36403.49,5,Junior Associate,Full time,Salary,Customer Experience,Asia,10.48
+100883313,Female,78750.0,4,Junior Associate,Full time,Salary,Technology Services,Americas,16.17
+100940509,Male,60000.0,5,Junior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100430624,Male,206250.0,42,Director,Full time,Salary,Strategy,Americas,34.74
+100008386,Male,81112.5,9,Senior Associate,Full time,Salary,Client Techology,Americas,-2.01
+100141770,Female,48750.0,5,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100166011,Male,86250.0,32,Team Lead,Full time,Salary,Strategy,Americas,34.74
+100925219,Male,25911.6,33,Entry Level,Full time,Hourly,Research,Americas,0.0
+100289381,Female,60000.0,8,Junior Associate,Full time,Salary,Strategy,Americas,34.74
+100366663,Male,25910.82,13,Entry Level,Full time,Hourly,Research,Americas,0.0
+100282643,Female,93750.0,6,Manger II,Full time,Salary,R&D,Americas,-10.52
+100506321,Male,65981.25,9,Senior Associate,Full time,Salary,Expansion,Americas,17.29
+100776890,Male,262500.0,19,Director,Full time,Salary,Client Strategy,Americas,6.59
+100974488,Male,28875.0,1,Entry Level,Full time,Salary,Client Strategy,Americas,6.59
+100535757,Female,48750.0,1,Junior Associate,Full time,Salary,Government Consulting,Americas,0.0
+100743401,Male,50212.5,4,Junior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100144237,Female,29640.0,1,Second Year Associate,Full time,Hourly,Catering,Americas,-2.88
+100756055,Male,101250.0,8,Team Lead,Full time,Salary,R&D,Americas,-10.52
+100520817,Male,75612.75,6,Senior Associate,Full time,Salary,Expansion,Americas,17.29
+100140941,Female,64500.0,6,Junior Associate,Full time,Salary,Customer Experience,Americas,10.48
+100225008,Female,41250.0,2,Second Year Associate,Full time,Salary,Graphic Design,Americas,27.77
+100494796,Male,48750.0,2,Junior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100431251,Male,375000.0,14,VP,Full time,Salary,Patent Law,Americas,-16.4
+100620399,Male,93632.92,24,Manger II,Full time,Salary,Catering,Europe,-2.88
+100640621,Male,45000.0,9,Junior Associate,Full time,Salary,Government Consulting,Americas,0.0
+100649528,Male,105000.0,7,Senior Associate,Full time,Salary,Technology Services,Americas,16.17
+100762276,Male,85181.25,5,Team Lead,Full time,Salary,Strategy,Americas,34.74
+100006131,Female,48750.0,6,Second Year Associate,Full time,Salary,Government Consulting,Americas,0.0
+100628545,Female,67500.0,5,Junior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100659874,Male,45880.13,13,Junior Associate,Full time,Salary,Expansion,Europe,17.29
+100695175,Female,52164.0,9,Team Lead,Full time,Salary,Catering,Americas,-2.88
+100736433,Male,106050.0,10,Senior Associate,Full time,Salary,Technology Services,Americas,16.17
+100502293,Female,48000.0,4,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100893668,Male,108000.0,14,Team Lead,Full time,Salary,Client Strategy,Americas,6.59
+100103882,Male,100912.5,8,Team Lead,Full time,Salary,Technology Services,Americas,16.17
+100135461,Female,75000.0,7,Second Year Associate,Full time,Salary,Technology Services,Americas,16.17
+100100298,Female,37500.0,4,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100390912,Female,67500.0,8,Second Year Associate,Full time,Salary,Technology Services,Americas,16.17
+100520528,Female,16860.34,8,Senior Associate,Full time,Salary,Strategy,Americas,34.74
+100023503,Female,56250.0,8,Second Year Associate,Full time,Salary,Customer Experience,Americas,10.48
+100936178,Male,71370.75,12,Senior Associate,Full time,Salary,Client Strategy,Europe,6.59
+100890279,Male,206250.0,11,Director,Full time,Salary,Investment,Americas,22.35
+100800506,Male,88951.28,13,Team Lead,Full time,Salary,Expansion,Europe,17.29
+100196212,Male,35683.51,9,Junior Associate,Full time,Salary,Catering,Europe,-2.88
+100503680,Female,59305.5,8,Team Lead,Full time,Salary,Catering,Americas,-2.88
+100849261,Female,25911.6,2,Entry Level,Full time,Hourly,Research,Americas,0.0
+100757517,Female,52500.0,2,Second Year Associate,Full time,Salary,Customer Experience,Americas,10.48
+100546018,Male,52500.0,5,Junior Associate,Full time,Hourly,Client Techology,Americas,-2.01
+100936383,Male,157500.0,15,Manager,Full time,Salary,Technology Services,Americas,16.17
+100652912,Female,57865.15,7,Team Lead,Full time,Salary,Customer Experience,Europe,10.48
+100915607,Female,45000.0,3,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100134865,Male,52500.0,12,Junior Associate,Full time,Salary,Government Consulting,Americas,0.0
+100070960,Male,127500.0,3,Team Lead,Full time,Salary,Technology Services,Americas,16.17
+100090477,Male,150000.0,18,Manger II,Full time,Salary,Pricing Analytics,Americas,-4.56
+100525424,Male,47895.0,7,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100064434,Female,25911.52,35,Entry Level,Full time,Hourly,Research,Americas,0.0
+100475275,Male,202500.0,16,Director,Full time,Salary,Client Strategy,Americas,6.59
+100227699,Male,101250.0,5,Manager,Full time,Salary,Client Techology,Americas,-2.01
+100013770,Female,187500.0,12,Manger II,Full time,Salary,Technology Services,Americas,16.17
+100681587,Male,50700.0,7,Junior Associate,Full time,Hourly,Catering,Americas,-2.88
+100444924,Male,28197.2,8,Senior Associate,Full time,Salary,R&D,Americas,-10.52
+100095918,Female,78750.0,6,Team Lead,Full time,Salary,Client Strategy,Americas,6.59
+100636392,Male,72540.0,8,Junior Associate,Full time,Salary,Customer Experience,Americas,10.48
+100224112,Male,112500.0,7,Senior Associate,Full time,Salary,Technology Services,Americas,16.17
+100205849,Female,63750.0,7,Junior Associate,Full time,Salary,Government Consulting,Americas,0.0
+100636789,Female,89251.5,22,Second Year Associate,Full time,Salary,Technology Services,Americas,16.17
+100277560,Male,20200.48,3,Second Year Associate,Full time,Salary,Customer Experience,Americas,10.48
+100343010,Male,169950.0,8,Team Lead,Full time,Salary,Technology Services,Americas,16.17
+100067367,Female,56250.0,12,Team Lead,Full time,Salary,Catering,Americas,-2.88
+100735842,Female,69862.5,11,Junior Associate,Full time,Salary,Expansion,Americas,17.29
+100339507,Female,95250.0,21,Senior Associate,Full time,Salary,R&D,Americas,-10.52
+100785055,Female,15250.07,4,Junior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100160568,Male,105000.0,5,Senior Associate,Full time,Salary,Technology Services,Americas,16.17
+100113354,Female,86250.0,17,Team Lead,Full time,Salary,Investment,Americas,22.35
+100576484,Female,25910.98,19,Entry Level,Full time,Hourly,Research,Americas,0.0
+100153294,Female,29640.0,0,Second Year Associate,Full time,Hourly,Catering,Americas,-2.88
+100481937,Female,36004.8,4,Second Year Associate,Full time,Hourly,Catering,Americas,-2.88
+100767810,Male,60000.0,16,Junior Associate,Full time,Salary,Client Techology,Americas,-2.01
+100635899,Male,97500.0,7,Senior Associate,Full time,Salary,Technology Services,Americas,16.17
+100620786,Female,63750.0,22,Second Year Associate,Full time,Salary,Expansion,Americas,17.29
+100360454,Male,33742.8,0,Second Year Associate,Full time,Hourly,Catering,Americas,-2.88
+100878025,Female,88837.5,12,Manager,Full time,Salary,Expansion,Americas,17.29
+100920218,Female,78000.0,9,Team Lead,Full time,Salary,Client Strategy,Americas,6.59
+100255707,Female,34644.18,5,Junior Associate,Full time,Salary,Catering,Europe,-2.88
+100677742,Female,51480.0,4,Second Year Associate,Full time,Hourly,Strategy,Americas,34.74
+100284966,Male,50212.5,5,Second Year Associate,Full time,Salary,Client Techology,Americas,-2.01
+100370952,Male,57000.0,3,Junior Associate,Full time,Salary,R&D,Americas,-10.52
+100057452,Male,67500.0,13,Junior Associate,Full time,Salary,Technology Services,Americas,16.17
+100961711,Female,45000.0,7,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100900701,Female,72225.0,4,Junior Associate,Full time,Salary,Technology Services,Americas,16.17
+100080949,Female,25910.82,3,Entry Level,Full time,Hourly,Research,Americas,0.0
+100650149,Male,168750.0,18,Director,Full time,Salary,Client Strategy,Americas,6.59
+100647438,Male,375000.0,24,VP,Full time,Salary,Investment,Americas,22.35
+100578827,Male,34644.18,9,Junior Associate,Full time,Salary,Catering,Europe,-2.88
+100349776,Female,48750.0,2,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100580462,Female,133875.0,10,Team Lead,Full time,Salary,Patent Law,Americas,-16.4
+100595146,Male,75000.0,27,Team Lead,Full time,Salary,Client Strategy,Americas,6.59
+100228169,Male,56250.0,4,Second Year Associate,Full time,Salary,Client Strategy,Americas,6.59
+100242038,Male,43875.0,8,Entry Level,Full time,Salary,Investment,Americas,22.35
+100324179,Female,118913.81,18,Manger II,Full time,Salary,R&D,Europe,-10.52
+100485063,Female,147075.0,19,Team Lead,Full time,Salary,Technology Services,Americas,16.17
+100406580,Female,3190.19,8,Team Lead,Full time,Salary,Research,Europe,0.0
+100473932,Female,35061.0,32,Junior Associate,Part time,Hourly,Government Consulting,Americas,0.0
+100207573,Female,21843.15,5,Entry Level,Full time,Salary,Research,Asia,0.0
+100045764,Male,32760.0,3,Second Year Associate,Full time,Hourly,Catering,Americas,-2.88
+100958737,Male,50546.47,13,Junior Associate,Full time,Salary,Expansion,Europe,17.29
+100102557,Male,90000.0,5,Senior Associate,Full time,Salary,Graphic Design,Americas,27.77
+100397677,Male,142500.0,9,Manger II,Full time,Salary,Pricing Analytics,Americas,-4.56
+100126232,Female,54075.0,13,Team Lead,Full time,Salary,Catering,Americas,-2.88
+100781580,Female,50695.5,5,Second Year Associate,Full time,Salary,Client Strategy,Americas,6.59
+100268690,Male,30957.64,13,Senior Associate,Full time,Salary,Customer Experience,Americas,10.48
+100653261,Male,131250.0,9,Sr Manager,Full time,Salary,Customer Experience,Americas,10.48
+100689326,Male,75000.0,6,Senior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100693806,Male,58500.0,15,Junior Associate,Full time,Salary,Pricing Analytics,Americas,-4.56
+100828603,Male,25910.98,4,Entry Level,Full time,Hourly,Research,Americas,0.0
+100406105,Female,25910.82,15,Entry Level,Full time,Hourly,Research,Americas,0.0
+100993761,Male,37500.0,3,Entry Level,Full time,Salary,Client Strategy,Americas,6.59
+100155790,Male,105000.0,26,Manger II,Full time,Salary,Research,Americas,0.0
+100338633,Male,93472.5,26,Team Lead,Full time,Salary,Expansion,Americas,17.29
+100081079,Female,45000.0,5,Senior Associate,Full time,Salary,Government Consulting,Americas,0.0
+100248564,Female,128250.0,12,Team Lead,Full time,Salary,Investment,Americas,22.35
+100971739,Female,30861.41,14,Junior Associate,Full time,Salary,Catering,Europe,-2.88
+100009314,Male,97500.0,12,Team Lead,Full time,Salary,Investment,Americas,22.35
+100307401,Male,127499.63,16,Manger II,Full time,Salary,Customer Experience,Americas,10.48
+100410565,Female,32760.0,5,Second Year Associate,Full time,Hourly,Catering,Americas,-2.88
+100880406,Male,48750.0,7,Junior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100928854,Male,52055.1,16,Team Lead,Full time,Salary,Catering,Oceania,-2.88
+100569199,Female,45000.0,2,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100780459,Male,101643.75,11,Manager,Full time,Salary,Expansion,Americas,17.29
+100635552,Male,131250.0,7,Sr Manager,Full time,Salary,Client Strategy,Americas,6.59
+100064153,Male,59625.0,0,Entry Level,Full time,Salary,Client Techology,Americas,-2.01
+100245919,Female,56574.38,5,Junior Associate,Full time,Salary,R&D,Americas,-10.52
+100955277,Female,73743.75,6,Junior Associate,Full time,Salary,Expansion,Americas,17.29
+100352381,Male,73125.0,8,Senior Associate,Full time,Salary,Investment,Americas,22.35
+100612581,Male,180562.5,23,Sr Manager,Full time,Salary,Investment,Americas,22.35
+100487189,Female,23400.0,10,Entry Level,Full time,Hourly,Research,Americas,0.0
+100412388,Male,90131.25,13,Manager,Full time,Salary,Strategy,Americas,34.74
+100980911,Female,33009.6,23,Junior Associate,Full time,Hourly,Research,Americas,0.0
+100312472,Female,34356.37,5,Entry Level,Full time,Salary,Investment,Oceania,22.35
+100500111,Female,11730.82,2,Second Year Associate,Full time,Salary,Catering,Americas,-2.88
+100649853,Female,105300.0,8,Junior Associate,Full time,Salary,Technology Services,Americas,16.17
+100132069,Female,32055.66,5,Second Year Associate,Full time,Hourly,Catering,Americas,-2.88
+100979961,Male,193125.0,24,Director,Full time,Salary,Investment,Americas,22.35
+100390106,Male,217500.0,20,Sr Manager,Full time,Salary,Technology Services,Americas,16.17
+100334647,Male,48750.0,2,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100535845,Male,132000.0,8,Senior Associate,Full time,Salary,Technology Services,Americas,16.17
+100191262,Female,93750.0,9,Manager,Full time,Salary,IPO Strategy,Americas,-29.53
+100925002,Female,19204.13,29,Team Lead,Full time,Salary,Customer Experience,Americas,10.48
+100008645,Male,48438.0,5,Junior Associate,Full time,Hourly,Research,Americas,0.0
+100641403,Female,41644.08,9,Team Lead,Full time,Salary,Catering,Oceania,-2.88
+100804184,Female,153750.0,9,Sr Manager,Full time,Salary,Investment,Americas,22.35
+100651727,Female,32760.0,5,Second Year Associate,Full time,Hourly,Catering,Americas,-2.88
+100621642,Female,51750.0,4,Entry Level,Full time,Salary,Graphic Design,Americas,27.77
+100273117,Female,113625.0,13,Manger II,Full time,Salary,Customer Experience,Americas,10.48
+100614738,Female,65250.0,7,Junior Associate,Full time,Salary,Expansion,Americas,17.29
+100930479,Male,29753.55,9,Senior Associate,Full time,Salary,Expansion,Americas,17.29
+100761523,Male,100125.0,5,Junior Associate,Full time,Salary,Technology Services,Americas,16.17
+100546953,Male,17852.13,3,Junior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100244225,Male,105000.0,17,Senior Associate,Full time,Salary,Technology Services,Americas,16.17
+100886127,Female,31200.0,0,Second Year Associate,Full time,Hourly,Catering,Americas,-2.88
+100664168,Female,47986.42,7,Junior Associate,Full time,Salary,Strategy,Asia,34.74
+100293548,Female,45360.0,4,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100926354,Female,75000.0,12,Team Lead,Full time,Salary,Graphic Design,Americas,27.77
+100239836,Female,34644.18,7,Junior Associate,Full time,Salary,Catering,Europe,-2.88
+100630707,Male,60861.4,5,Senior Associate,Full time,Salary,Customer Experience,Europe,10.48
+100624065,Female,25910.98,18,Entry Level,Full time,Hourly,Research,Americas,0.0
+100612304,Female,101250.0,5,Junior Associate,Full time,Salary,Technology Services,Americas,16.17
+100986382,Female,25911.6,28,Entry Level,Full time,Hourly,Research,Americas,0.0
+100555097,Male,150000.0,16,Sr Manager,Full time,Salary,Customer Experience,Americas,10.48
+100314461,Female,26399.72,7,Entry Level,Full time,Hourly,Research,Americas,0.0
+100236814,Female,54075.0,5,Second Year Associate,Full time,Salary,Graphic Design,Americas,27.77
+100890932,Female,50250.0,10,Second Year Associate,Full time,Salary,R&D,Americas,-10.52
+100626981,Male,206250.0,13,Director II,Full time,Salary,Client Strategy,Americas,6.59
+100535446,Male,70887.52,16,Manger II,Full time,Salary,Catering,Asia,-2.88
+100089298,Female,82500.0,9,Team Lead,Full time,Salary,Graphic Design,Americas,27.77
+100449167,Male,25911.6,14,Entry Level,Full time,Hourly,Research,Americas,0.0
+100442249,Male,127500.0,8,Senior Associate,Full time,Salary,Technology Services,Americas,16.17
+100485523,Male,25910.82,26,Entry Level,Full time,Hourly,Research,Americas,0.0
+100990125,Male,57751.88,7,Senior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100361765,Male,112500.0,13,Manager,Full time,Salary,Client Strategy,Americas,6.59
+100142168,Male,48750.0,1,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100779187,Female,138750.0,8,Senior Associate,Full time,Salary,Technology Services,Americas,16.17
+100119633,Male,25911.6,32,Entry Level,Full time,Hourly,Research,Americas,0.0
+100536117,Female,49725.0,6,Junior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100105731,Female,25910.82,13,Entry Level,Full time,Hourly,Research,Americas,0.0
+100819176,Female,36004.8,0,Second Year Associate,Full time,Hourly,Catering,Americas,-2.88
+100216422,Female,112500.0,30,Team Lead,Full time,Salary,Technology Services,Americas,16.17
+100921371,Female,45000.0,5,Second Year Associate,Full time,Salary,Graphic Design,Americas,27.77
+100231814,Female,93632.92,12,Team Lead,Full time,Salary,Client Strategy,Europe,6.59
+100077941,Male,56250.0,10,Junior Associate,Full time,Salary,Research,Americas,0.0
+100310100,Male,46816.46,5,Senior Associate,Full time,Salary,Client Strategy,Europe,6.59
+100102187,Male,63750.0,8,Junior Associate,Full time,Salary,Customer Experience,Americas,10.48
+100250450,Male,135000.0,6,Manager,Full time,Salary,Pricing Analytics,Americas,-4.56
+100491799,Male,56160.0,25,Senior Associate,Full time,Hourly,Research,Americas,0.0
+100280419,Female,131250.0,13,Sr Manager,Full time,Salary,Government Consulting,Americas,0.0
+100036425,Male,48424.26,15,Junior Associate,Full time,Hourly,Research,Americas,0.0
+100256599,Male,19707.79,3,Junior Associate,Full time,Salary,Customer Experience,Americas,10.48
+100218389,Male,100088.7,3,Junior Associate,Full time,Salary,Technology Services,Americas,16.17
+100407211,Male,96562.5,5,Senior Associate,Full time,Salary,Technology Services,Americas,16.17
+100246051,Male,38576.77,8,Junior Associate,Full time,Salary,Client Techology,Europe,-2.01
+100056054,Male,116250.0,28,Manager,Full time,Salary,Technology Services,Americas,16.17
+100849273,Male,23872.23,6,Senior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100954303,Female,33742.8,8,Second Year Associate,Full time,Hourly,Catering,Americas,-2.88
+100864830,Female,25911.6,2,Entry Level,Full time,Hourly,Research,Americas,0.0
+100351246,Female,90000.0,4,Senior Associate,Full time,Salary,Technology Services,Americas,16.17
+100082690,Male,70500.0,23,Team Lead,Full time,Salary,Research,Americas,0.0
+100522938,Male,93750.0,9,Team Lead,Full time,Salary,Customer Experience,Americas,10.48
+100988021,Male,300000.0,7,Director,Full time,Salary,Pricing Analytics,Americas,-4.56
+100689245,Male,65343.75,7,Junior Associate,Full time,Salary,Customer Experience,Americas,10.48
+100527442,Female,107250.0,9,Team Lead,Full time,Salary,Strategy,Americas,34.74
+100562459,Female,49185.38,8,Team Lead,Full time,Salary,Catering,Europe,-2.88
+100711439,Female,21061.04,10,Second Year Associate,Full time,Salary,Catering,Europe,-2.88
+100103911,Male,17244.31,3,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100881310,Male,105036.75,23,Manger II,Full time,Salary,Research,Americas,0.0
+100890616,Male,105000.0,9,Manager,Full time,Salary,Client Strategy,Americas,6.59
+100148901,Male,97500.0,12,Senior Associate,Full time,Salary,Customer Experience,Americas,10.48
+100369953,Female,75000.0,26,Junior Associate,Full time,Salary,Technology Services,Americas,16.17
+100190238,Female,84975.0,11,Senior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100960071,Male,25749.05,2,Second Year Associate,Full time,Salary,Catering,Europe,-2.88
+100644870,Female,72191.25,6,Senior Associate,Full time,Salary,Investment,Americas,22.35
+100880707,Female,101250.0,5,Senior Associate,Full time,Salary,Technology Services,Americas,16.17
+100197963,Male,81002.25,5,Junior Associate,Full time,Salary,Technology Services,Americas,16.17
+100557698,Female,90000.0,13,Team Lead,Full time,Salary,Investment,Americas,22.35
+100357488,Male,63750.0,6,Team Lead,Full time,Salary,Client Strategy,Americas,6.59
+100283100,Female,178875.0,20,Sr Manager,Full time,Salary,Strategy,Americas,34.74
+100105801,Male,79350.0,2,Senior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100470760,Female,33745.3,11,Junior Associate,Full time,Salary,Customer Experience,Europe,10.48
+100949314,Female,25302.69,7,Junior Associate,Full time,Salary,Catering,Europe,-2.88
+100115438,Male,16423.15,2,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100418920,Female,23400.0,10,Entry Level,Full time,Hourly,Research,Americas,0.0
+100692183,Female,48496.82,8,Senior Associate,Full time,Salary,Strategy,Europe,34.74
+100180617,Male,77250.0,5,Senior Associate,Full time,Salary,IPO Strategy,Americas,-29.53
+100903396,Male,54507.6,8,Team Lead,Full time,Salary,Catering,Americas,-2.88
+100103697,Male,73500.0,5,Senior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100108643,Male,105000.0,2,Senior Associate,Full time,Salary,Technology Services,Americas,16.17
+100371361,Female,42134.82,4,Junior Associate,Full time,Salary,Strategy,Europe,34.74
+100234703,Male,386250.0,21,Director II,Full time,Salary,Leadership,Americas,37.58
+100980698,Male,90000.0,25,Team Lead,Full time,Salary,Research,Americas,0.0
+100540857,Male,68276.25,8,Senior Associate,Full time,Salary,Expansion,Americas,17.29
+100847016,Male,38437.5,4,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100532587,Female,69000.0,10,Manager,Full time,Salary,Government Consulting,Americas,0.0
+100494962,Male,52500.0,7,Junior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100453538,Male,56250.0,8,Entry Level,Full time,Salary,Expansion,Americas,17.29
+100450864,Female,121722.8,23,Manger II,Full time,Salary,Customer Experience,Europe,10.48
+100231141,Male,25911.6,4,Entry Level,Full time,Hourly,Research,Americas,0.0
+100674845,Male,49294.98,4,Senior Associate,Full time,Salary,Catering,Americas,-2.88
+100398697,Male,112500.0,9,Junior Associate,Full time,Salary,Technology Services,Americas,16.17
+100163222,Female,32266.73,7,Second Year Associate,Full time,Salary,Customer Experience,Asia,10.48
+100161775,Female,41715.0,4,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100015010,Male,17830.85,9,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100296929,Male,24555.81,5,Junior Associate,Full time,Salary,Customer Experience,Asia,10.48
+100375786,Female,59625.0,5,Team Lead,Full time,Salary,Catering,Americas,-2.88
+100940715,Female,78750.0,12,Junior Associate,Full time,Salary,Expansion,Americas,17.29
+100195427,Male,54808.65,9,Team Lead,Full time,Salary,Catering,Americas,-2.88
+100180059,Male,193125.0,33,Director,Full time,Salary,Research,Americas,0.0
+100940497,Male,216300.0,12,Manager,Full time,Salary,Technology Services,Americas,16.17
+100970669,Female,24661.71,5,Senior Associate,Full time,Salary,Expansion,Asia,17.29
+100440290,Male,132839.12,13,Manger II,Full time,Salary,Technology Services,Europe,16.17
+100371608,Female,39047.15,5,Junior Associate,Full time,Salary,Catering,Europe,-2.88
+100020695,Male,45000.0,3,Second Year Associate,Full time,Salary,R&D,Americas,-10.52
+100777389,Male,56250.0,5,Junior Associate,Full time,Salary,Graphic Design,Americas,27.77
+100245861,Female,81000.0,8,Manger II,Full time,Salary,Catering,Americas,-2.88
+100728595,Male,86250.0,11,Team Lead,Full time,Salary,Customer Experience,Americas,10.48
+100048250,Male,35061.0,8,Junior Associate,Part time,Hourly,Government Consulting,Americas,0.0
+100364170,Female,25910.98,24,Entry Level,Full time,Hourly,Research,Americas,0.0
+100049391,Female,108750.0,18,Team Lead,Full time,Salary,Technology Services,Americas,16.17
+100399966,Female,63257.25,7,Team Lead,Full time,Salary,Strategy,Europe,34.74
+100066708,Female,47223.0,3,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100448785,Male,86250.0,3,Senior Associate,Full time,Salary,Strategy,Americas,34.74
+100239915,Female,50250.0,4,Junior Associate,Full time,Salary,Graphic Design,Americas,27.77
+100050640,Male,216300.0,33,Manger II,Full time,Salary,Technology Services,Americas,16.17
+100622118,Male,51615.63,16,Manager,Full time,Salary,Research,Americas,0.0
+100137045,Male,43875.0,20,Entry Level,Full time,Salary,Expansion,Americas,17.29
+100373178,Female,112125.0,23,Manager,Full time,Salary,Client Strategy,Americas,6.59
+100927489,Female,11901.42,13,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100271612,Male,25302.69,10,Junior Associate,Full time,Salary,Catering,Europe,-2.88
+100125627,Female,82500.0,4,Junior Associate,Full time,Salary,Client Techology,Americas,-2.01
+100946568,Male,32760.0,8,Second Year Associate,Full time,Hourly,Catering,Americas,-2.88
+100410425,Female,90000.0,12,Manger II,Full time,Salary,Government Consulting,Americas,0.0
+100259177,Female,56250.0,3,Junior Associate,Full time,Hourly,Catering,Americas,-2.88
+100453221,Male,75000.0,5,Senior Associate,Full time,Salary,Technology Services,Americas,16.17
+100241492,Female,187500.0,17,Sr Manager,Full time,Salary,Strategy,Americas,34.74
+100695330,Male,150000.0,19,Manger II,Full time,Salary,Technology Services,Americas,16.17
+100411572,Male,54995.4,9,Junior Associate,Full time,Salary,Technology Services,Europe,16.17
+100119683,Female,45000.0,0,Entry Level,Full time,Salary,Customer Experience,Americas,10.48
+100569170,Female,20232.41,6,Junior Associate,Full time,Salary,Pricing Analytics,Americas,-4.56
+100741092,Female,68352.04,8,Junior Associate,Full time,Salary,Client Strategy,Europe,6.59
+100179644,Female,25910.98,2,Entry Level,Full time,Hourly,Research,Americas,0.0
+100702494,Male,41776.8,23,Junior Associate,Full time,Hourly,Research,Americas,0.0
+100735149,Male,75000.0,8,Second Year Associate,Full time,Salary,Technology Services,Americas,16.17
+100889953,Female,140997.75,29,Manger II,Full time,Salary,Strategy,Americas,34.74
+100920939,Male,25910.82,10,Entry Level,Full time,Hourly,Catering,Americas,-2.88
+100042373,Female,53043.05,9,Senior Associate,Full time,Salary,Graphic Design,Europe,27.77
+100378620,Female,59915.63,7,Junior Associate,Full time,Salary,Customer Experience,Americas,10.48
+100540643,Female,33930.0,17,Junior Associate,Part time,Hourly,Government Consulting,Americas,0.0
+100279817,Female,67500.0,4,Senior Associate,Full time,Salary,Government Consulting,Americas,0.0
+100713026,Female,93750.0,14,Manager,Full time,Salary,Government Consulting,Americas,0.0
+100920668,Female,71250.0,14,Senior Associate,Full time,Salary,Customer Experience,Americas,10.48
+100959420,Male,44999.63,4,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100529971,Male,56250.0,4,Team Lead,Full time,Salary,Catering,Americas,-2.88
+100261793,Male,22212.1,10,Senior Associate,Full time,Salary,R&D,Americas,-10.52
+100459042,Male,57876.0,10,Junior Associate,Full time,Hourly,Client Techology,Americas,-2.01
+100997031,Female,71250.0,3,Junior Associate,Full time,Salary,Technology Services,Americas,16.17
+100058913,Female,28630.3,0,Second Year Associate,Full time,Salary,Client Strategy,Oceania,6.59
+100537187,Male,112500.0,13,Team Lead,Full time,Salary,Graphic Design,Americas,27.77
+100325919,Female,25910.82,26,Entry Level,Full time,Hourly,Research,Americas,0.0
+100785100,Female,90382.5,18,Manager,Full time,Salary,Graphic Design,Americas,27.77
+100778698,Male,50991.36,15,Manager,Full time,Salary,Client Techology,Asia,-2.01
+100252030,Female,76123.5,13,Senior Associate,Full time,Salary,Customer Experience,Americas,10.48
+100568491,Male,65543.04,6,Senior Associate,Full time,Salary,Pricing Analytics,Europe,-4.56
+100104957,Male,56259.94,14,Senior Associate,Full time,Salary,Expansion,Asia,17.29
+100149082,Male,148502.25,11,Manger II,Full time,Salary,Expansion,Americas,17.29
+100058444,Male,118192.5,10,Senior Associate,Full time,Salary,Technology Services,Americas,16.17
+100437252,Male,31170.33,5,Junior Associate,Full time,Salary,Research,Europe,0.0
+100633551,Female,71527.5,4,Senior Associate,Full time,Salary,R&D,Americas,-10.52
+100137933,Female,26933.98,14,Team Lead,Full time,Salary,Catering,Americas,-2.88
+100875442,Female,145500.0,19,Manger II,Full time,Salary,Customer Experience,Americas,10.48
+100693041,Male,43398.86,5,Junior Associate,Full time,Salary,Client Techology,Europe,-2.01
+100159630,Female,14076.99,5,Junior Associate,Full time,Salary,Research,Americas,0.0
+100241489,Female,52500.0,4,Second Year Associate,Full time,Salary,Investment,Americas,22.35
+100191035,Female,34320.0,4,Second Year Associate,Full time,Hourly,Catering,Americas,-2.88
+100543716,Male,30654.0,12,Entry Level,Full time,Hourly,Research,Americas,0.0
+100885956,Female,17830.85,4,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100687541,Male,149995.5,17,Manger II,Full time,Salary,Technology Services,Americas,16.17
+100841579,Female,120375.0,8,Senior Associate,Full time,Salary,Technology Services,Americas,16.17
+100761527,Male,121500.0,29,Manager,Full time,Salary,Expansion,Americas,17.29
+100983120,Female,48750.0,8,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100383900,Male,46334.27,15,Team Lead,Full time,Salary,Research,Europe,0.0
+100581716,Female,46816.46,10,Junior Associate,Full time,Salary,Investment,Europe,22.35
+100683179,Male,157500.0,14,Sr Manager,Full time,Salary,Client Strategy,Americas,6.59
+100007864,Male,6426.76,7,Second Year Associate,Full time,Salary,Customer Experience,Americas,10.48
+100346735,Female,62400.0,12,Team Lead,Full time,Salary,Catering,Americas,-2.88
+100645414,Female,20888.4,10,Entry Level,Full time,Hourly,Research,Americas,0.0
+100213311,Female,135843.75,11,Manger II,Full time,Salary,R&D,Americas,-10.52
+100078642,Male,34644.18,8,Junior Associate,Full time,Salary,Catering,Europe,-2.88
+100515255,Female,97500.0,4,Senior Associate,Full time,Salary,R&D,Americas,-10.52
+100251676,Female,58052.41,4,Junior Associate,Full time,Salary,Client Strategy,Europe,6.59
+100021626,Male,90000.0,4,Junior Associate,Full time,Salary,Technology Services,Americas,16.17
+100728469,Female,54994.57,12,Junior Associate,Full time,Salary,Customer Experience,Europe,10.48
+100964945,Male,70847.54,9,Junior Associate,Full time,Salary,Technology Services,Europe,16.17
+100165099,Male,82247.06,9,Manager,Full time,Salary,Expansion,Oceania,17.29
+100668614,Female,165000.0,11,Manger II,Full time,Salary,Patent Law,Americas,-16.4
+100239151,Male,73387.5,9,Manager,Full time,Salary,Research,Americas,0.0
+100433374,Female,27499.86,2,Entry Level,Full time,Salary,Customer Experience,Asia,10.48
+100183251,Male,34956.09,12,Entry Level,Full time,Hourly,Research,Americas,0.0
+100098414,Male,54000.0,7,Team Lead,Full time,Salary,Catering,Americas,-2.88
+100197434,Female,84269.63,8,Team Lead,Full time,Salary,Patent Law,Europe,-16.4
+100755895,Male,104287.5,5,Team Lead,Full time,Salary,Investment,Americas,22.35
+100380657,Female,90000.0,6,Manager,Full time,Salary,R&D,Americas,-10.52
+100174515,Male,78750.0,37,Senior Associate,Full time,Salary,Expansion,Americas,17.29
+100062724,Female,32760.0,2,Second Year Associate,Full time,Hourly,Catering,Americas,-2.88
+100927742,Female,150000.0,20,Manager,Full time,Salary,Pricing Analytics,Americas,-4.56
+100634877,Female,112500.0,16,Senior Associate,Full time,Salary,Technology Services,Americas,16.17
+100805848,Male,127500.0,10,Manager,Full time,Salary,Technology Services,Americas,16.17
+100756283,Female,46500.0,7,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100963617,Male,56250.0,6,Junior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100488818,Female,61800.0,5,Junior Associate,Full time,Salary,Investment,Americas,22.35
+100096423,Female,96562.5,12,Manger II,Full time,Salary,Catering,Americas,-2.88
+100387758,Male,131250.0,4,Senior Associate,Full time,Salary,Technology Services,Americas,16.17
+100599700,Female,32760.0,1,Second Year Associate,Full time,Hourly,Catering,Americas,-2.88
+100922879,Female,56250.0,2,Junior Associate,Full time,Salary,R&D,Americas,-10.52
+100675902,Male,28563.4,7,Senior Associate,Full time,Salary,Customer Experience,Americas,10.48
+100505570,Female,47883.75,10,Junior Associate,Full time,Salary,Investment,Americas,22.35
+100608415,Male,93750.0,10,Sr Manager,Full time,Salary,Research,Americas,0.0
+100796463,Male,25911.6,16,Entry Level,Full time,Hourly,Research,Americas,0.0
+100663481,Female,31200.0,2,Second Year Associate,Full time,Hourly,Catering,Americas,-2.88
+100921286,Female,68850.0,9,Junior Associate,Full time,Salary,Technology Services,Americas,16.17
+100674346,Female,22604.4,5,Entry Level,Full time,Hourly,Research,Americas,0.0
+100411396,Female,84000.0,4,Manager,Full time,Salary,Client Strategy,Americas,6.59
+100414882,Male,34644.18,6,Junior Associate,Full time,Salary,Catering,Europe,-2.88
+100792853,Male,24102.0,13,Entry Level,Full time,Hourly,Research,Americas,0.0
+100945895,Female,59535.0,9,Team Lead,Full time,Salary,Catering,Americas,-2.88
+100298679,Male,42134.82,21,Junior Associate,Full time,Salary,Customer Experience,Europe,10.48
+100449524,Male,19285.48,6,Junior Associate,Full time,Salary,Client Techology,Americas,-2.01
+100152544,Male,56179.76,8,Senior Associate,Full time,Salary,Client Strategy,Europe,6.59
+100380399,Male,75000.0,10,Team Lead,Full time,Salary,Government Consulting,Americas,0.0
+100105916,Male,114187.5,6,Senior Associate,Full time,Salary,Technology Services,Americas,16.17
+100217682,Male,138750.0,13,Team Lead,Full time,Salary,Client Techology,Americas,-2.01
+100339609,Male,168750.0,16,Team Lead,Full time,Salary,Technology Services,Americas,16.17
+100766843,Male,23567.23,6,Senior Associate,Full time,Salary,Expansion,Americas,17.29
+100166362,Female,77250.0,11,Senior Associate,Full time,Salary,Customer Experience,Americas,10.48
+100186718,Male,80250.0,4,Junior Associate,Full time,Salary,Technology Services,Americas,16.17
+100437376,Male,66150.0,7,Senior Associate,Full time,Salary,Catering,Americas,-2.88
+100111216,Male,139164.8,15,Manger II,Full time,Salary,Technology Services,Europe,16.17
+100411901,Male,60000.0,6,Junior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100517932,Female,57002.4,2,Second Year Associate,Full time,Hourly,R&D,Americas,-10.52
+100788431,Female,26520.0,4,Second Year Associate,Full time,Hourly,Catering,Americas,-2.88
+100312912,Female,39000.0,5,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100927770,Male,31200.0,1,Second Year Associate,Full time,Hourly,Catering,Americas,-2.88
+100978080,Female,51498.11,9,Senior Associate,Full time,Salary,Customer Experience,Europe,10.48
+100319026,Female,54337.5,24,Second Year Associate,Full time,Salary,Customer Experience,Americas,10.48
+100397165,Female,65079.51,15,Manager,Full time,Salary,Pricing Analytics,Asia,-4.56
+100158984,Female,16915.85,4,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100850367,Female,75230.0,10,Senior Associate,Full time,Salary,Technology Services,Europe,16.17
+100145990,Male,69862.5,7,Senior Associate,Full time,Salary,Technology Services,Americas,16.17
+100072938,Male,125625.0,13,Manager,Full time,Salary,Client Strategy,Americas,6.59
+100682227,Male,55620.0,5,Senior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100855191,Male,93750.0,24,Team Lead,Full time,Salary,Expansion,Americas,17.29
+100723188,Male,76404.46,11,Senior Associate,Full time,Salary,Expansion,Europe,17.29
+100878045,Male,142500.0,6,Sr Manager,Full time,Salary,Strategy,Americas,34.74
+100906948,Male,64669.67,11,Sr Manager,Full time,Salary,Client Techology,Americas,-2.01
+100189496,Female,48220.96,4,Junior Associate,Full time,Salary,Patent Law,Europe,-16.4
+100339803,Female,52500.0,2,Junior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100033901,Female,73743.75,12,Senior Associate,Full time,Salary,Customer Experience,Americas,10.48
+100018683,Male,46816.46,4,Senior Associate,Full time,Salary,Client Strategy,Europe,6.59
+100637934,Female,86250.0,7,Senior Associate,Full time,Salary,Technology Services,Americas,16.17
+100115676,Male,29519.14,5,Junior Associate,Full time,Salary,Catering,Europe,-2.88
+100713359,Male,25911.6,2,Entry Level,Full time,Hourly,Research,Americas,0.0
+100952444,Female,43646.25,8,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100602747,Female,17652.55,7,Junior Associate,Full time,Salary,R&D,Americas,-10.52
+100811592,Male,34644.18,7,Junior Associate,Full time,Salary,Catering,Europe,-2.88
+100572313,Male,37913.84,5,Junior Associate,Full time,Salary,Catering,Europe,-2.88
+100067771,Male,102996.22,7,Manger II,Full time,Salary,Leadership,Europe,37.58
+100099174,Female,46800.0,7,Junior Associate,Full time,Hourly,Strategy,Americas,34.74
+100153085,Female,43200.0,4,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100285308,Male,138751.11,10,Team Lead,Full time,Salary,Technology Services,Americas,16.17
+100230193,Female,150000.0,12,Manger II,Full time,Salary,R&D,Americas,-10.52
+100292407,Female,61875.0,8,Team Lead,Full time,Salary,Catering,Americas,-2.88
+100291406,Female,123753.0,5,Senior Associate,Full time,Salary,Technology Services,Americas,16.17
+100077336,Female,56250.0,19,Team Lead,Full time,Salary,Catering,Americas,-2.88
+100027246,Male,225000.0,8,Director,Full time,Salary,Leadership,Americas,37.58
+100545773,Male,61105.99,8,Senior Associate,Full time,Salary,Client Techology,Europe,-2.01
+100673202,Male,127500.0,11,Manger II,Full time,Salary,Pricing Analytics,Americas,-4.56
+100815450,Female,66000.0,4,Junior Associate,Full time,Salary,Expansion,Americas,17.29
+100743689,Male,112500.0,29,Senior Associate,Full time,Salary,Technology Services,Americas,16.17
+100744675,Male,135187.5,8,Senior Associate,Full time,Salary,Technology Services,Americas,16.17
+100881669,Male,45022.5,2,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100560277,Female,94500.0,14,Manager,Full time,Salary,Client Strategy,Americas,6.59
+100634119,Male,25911.6,31,Entry Level,Full time,Hourly,Research,Americas,0.0
+100751655,Male,165000.0,11,Manager,Full time,Salary,Technology Services,Americas,16.17
+100436333,Male,119722.5,8,Team Lead,Full time,Salary,Technology Services,Americas,16.17
+100214282,Female,52500.0,5,Second Year Associate,Full time,Salary,Expansion,Americas,17.29
+100952482,Male,19042.27,7,Senior Associate,Full time,Salary,Patent Law,Americas,-16.4
+100108715,Male,93766.58,11,Manger II,Full time,Salary,Client Strategy,Asia,6.59
+100807174,Female,33930.0,15,Junior Associate,Part time,Hourly,Government Consulting,Americas,0.0
+100772305,Female,37214.87,9,Team Lead,Full time,Salary,Client Strategy,Americas,6.59
+100954713,Male,25911.6,8,Entry Level,Full time,Hourly,Research,Americas,0.0
+100708198,Female,63000.0,4,Junior Associate,Full time,Hourly,Expansion,Americas,17.29
+100676565,Male,135000.0,7,Team Lead,Full time,Salary,Patent Law,Americas,-16.4
+100196317,Female,21840.0,5,Entry Level,Full time,Hourly,Research,Americas,0.0
+100787078,Female,25749.05,6,Second Year Associate,Full time,Salary,Catering,Europe,-2.88
+100681852,Female,43200.0,11,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100233779,Female,281250.0,23,Director II,Full time,Salary,Leadership,Americas,37.58
+100658444,Male,125250.0,20,Team Lead,Full time,Salary,Technology Services,Americas,16.17
+100094525,Male,88951.28,15,Manager,Full time,Salary,Client Strategy,Europe,6.59
+100234225,Female,75000.0,3,Team Lead,Full time,Salary,Research,Americas,0.0
+100954367,Female,41886.0,3,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100873408,Female,74623.45,12,Team Lead,Full time,Salary,Customer Experience,Europe,10.48
+100038040,Female,150000.0,22,Manager,Full time,Salary,Technology Services,Americas,16.17
+100933458,Female,127500.0,8,Manager,Full time,Salary,Patent Law,Americas,-16.4
+100069994,Female,50700.0,6,Junior Associate,Full time,Hourly,Catering,Americas,-2.88
+100306288,Male,201310.78,15,Director,Full time,Salary,Client Strategy,Europe,6.59
+100480578,Female,206250.0,20,Director,Full time,Salary,Customer Experience,Americas,10.48
+100424934,Male,92700.0,7,Senior Associate,Full time,Salary,Expansion,Americas,17.29
+100878471,Male,32881.25,24,Team Lead,Full time,Salary,Expansion,Americas,17.29
+100652726,Male,37453.17,3,Junior Associate,Full time,Salary,Client Techology,Europe,-2.01
+100397296,Male,150000.0,23,Sr Manager,Full time,Salary,Client Strategy,Americas,6.59
+100886012,Male,15484.69,4,Junior Associate,Full time,Salary,Research,Americas,0.0
+100181703,Male,67500.0,6,Junior Associate,Full time,Salary,Customer Experience,Americas,10.48
+100528686,Male,29485.45,7,Second Year Associate,Full time,Salary,Catering,Europe,-2.88
+100636796,Female,34557.11,5,Junior Associate,Full time,Salary,Catering,Europe,-2.88
+100731471,Female,29250.0,18,Junior Associate,Part time,Hourly,Government Consulting,Americas,0.0
+100649615,Female,78750.0,11,Senior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100856471,Female,135187.5,15,Manager,Full time,Salary,Expansion,Americas,17.29
+100323888,Female,51000.0,3,Junior Associate,Full time,Salary,Government Consulting,Americas,0.0
+100046181,Male,212437.5,24,Manager,Full time,Salary,Technology Services,Americas,16.17
+100524199,Female,47752.79,9,Team Lead,Full time,Salary,Catering,Europe,-2.88
+100346327,Female,26958.12,8,Second Year Associate,Full time,Salary,Catering,Europe,-2.88
+100606125,Female,40500.0,14,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100272114,Male,101117.25,9,Team Lead,Full time,Salary,Investment,Americas,22.35
+100927339,Male,300000.0,28,Director,Full time,Salary,Technology Services,Americas,16.17
+100541305,Female,97500.0,6,Senior Associate,Full time,Salary,Technology Services,Americas,16.17
+100578744,Female,58500.0,1,Junior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100396032,Male,117041.16,12,Manager,Full time,Salary,Client Strategy,Europe,6.59
+100446547,Female,37182.51,7,Junior Associate,Full time,Salary,Catering,Europe,-2.88
+100814921,Male,48750.0,9,Junior Associate,Full time,Salary,Government Consulting,Americas,0.0
+100682826,Female,19042.27,11,Team Lead,Full time,Salary,Catering,Americas,-2.88
+100939445,Male,25911.6,4,Entry Level,Full time,Hourly,Research,Americas,0.0
+100719296,Male,65692.62,22,Manger II,Full time,Salary,Client Strategy,Americas,6.59
+100946990,Male,77250.0,11,Senior Associate,Full time,Salary,Customer Experience,Americas,10.48
+100914622,Male,105000.0,8,Team Lead,Full time,Salary,Research,Americas,0.0
+100515788,Male,96562.5,7,Junior Associate,Full time,Salary,Technology Services,Americas,16.17
+100057715,Male,63679.5,21,Team Lead,Full time,Salary,Catering,Americas,-2.88
+100194113,Female,46816.46,10,Second Year Associate,Full time,Salary,Investment,Europe,22.35
+100139964,Female,157500.0,19,Manger II,Full time,Salary,Technology Services,Americas,16.17
+100245723,Male,25910.98,11,Entry Level,Full time,Hourly,Research,Americas,0.0
+100513981,Male,77250.0,2,Junior Associate,Full time,Salary,Technology Services,Americas,16.17
+100328833,Female,25342.81,7,Junior Associate,Full time,Salary,Graphic Design,Americas,27.77
+100910825,Female,46507.5,2,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100428691,Female,64500.0,10,Senior Associate,Full time,Salary,Customer Experience,Americas,10.48
+100656492,Female,25749.05,5,Entry Level,Full time,Salary,Investment,Europe,22.35
+100835023,Female,60000.0,8,Junior Associate,Full time,Salary,Expansion,Americas,17.29
+100981110,Male,153750.0,14,Manager,Full time,Salary,Technology Services,Americas,16.17
+100292636,Female,29962.54,3,Junior Associate,Full time,Salary,Catering,Europe,-2.88
+100942879,Male,46331.72,14,Senior Associate,Full time,Salary,Catering,Asia,-2.88
+100602327,Male,49662.9,4,Junior Associate,Full time,Salary,Customer Experience,Europe,10.48
+100317723,Male,150000.0,12,Manger II,Full time,Salary,Strategy,Americas,34.74
+100859725,Female,56700.0,4,Team Lead,Full time,Salary,Catering,Americas,-2.88
+100683731,Male,60299.42,40,Manager,Full time,Salary,Expansion,Americas,17.29
+100203604,Female,60000.0,10,Junior Associate,Full time,Salary,Government Consulting,Americas,0.0
+100735786,Female,54750.0,8,Second Year Associate,Full time,Salary,Investment,Americas,22.35
+100311978,Female,67500.0,14,Team Lead,Full time,Salary,Expansion,Americas,17.29
+100059160,Male,63750.0,5,Senior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100791603,Female,36403.49,19,Senior Associate,Full time,Salary,Customer Experience,Asia,10.48
+100249569,Female,56250.0,6,Entry Level,Full time,Salary,Customer Experience,Americas,10.48
+100806864,Female,49500.0,4,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100375930,Male,86250.0,13,Junior Associate,Full time,Salary,Expansion,Americas,17.29
+100154398,Male,93750.0,9,Senior Associate,Full time,Salary,R&D,Americas,-10.52
+100733711,Male,142500.0,11,Manager,Full time,Salary,R&D,Americas,-10.52
+100820855,Female,60000.0,19,Team Lead,Full time,Salary,Catering,Americas,-2.88
+100173645,Male,100425.0,6,Junior Associate,Full time,Salary,Technology Services,Americas,16.17
+100018562,Male,124875.0,13,Manager,Full time,Salary,Pricing Analytics,Americas,-4.56
+100366340,Female,43806.95,12,Team Lead,Full time,Salary,Catering,Europe,-2.88
+100169623,Male,83835.0,36,Manager,Full time,Salary,Research,Americas,0.0
+100992937,Female,32760.0,4,Second Year Associate,Full time,Hourly,Catering,Americas,-2.88
+100354155,Male,48750.0,6,Senior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100377886,Female,59072.63,5,Team Lead,Full time,Salary,Catering,Americas,-2.88
+100616828,Male,67500.0,8,Entry Level,Full time,Salary,Technology Services,Americas,16.17
+100552269,Male,142912.5,22,Manager,Full time,Salary,Pricing Analytics,Americas,-4.56
+100284136,Male,65786.87,10,Second Year Associate,Full time,Salary,Technology Services,Europe,16.17
+100589853,Male,67500.0,7,Junior Associate,Full time,Salary,Investment,Americas,22.35
+100512944,Female,28860.0,6,Second Year Associate,Full time,Hourly,Catering,Americas,-2.88
+100807298,Male,37737.4,14,Second Year Associate,Full time,Hourly,Catering,Americas,-2.88
+100584272,Male,43500.0,4,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100419470,Male,99187.5,10,Junior Associate,Full time,Salary,Technology Services,Americas,16.17
+100637695,Female,135000.0,10,Manager,Full time,Salary,Pricing Analytics,Americas,-4.56
+100710092,Female,74250.0,8,Senior Associate,Full time,Salary,Customer Experience,Americas,10.48
+100542683,Female,25749.05,3,Second Year Associate,Full time,Salary,Catering,Europe,-2.88
+100670160,Male,87412.5,5,Team Lead,Full time,Salary,Pricing Analytics,Americas,-4.56
+100726056,Male,25910.82,10,Entry Level,Full time,Hourly,Research,Americas,0.0
+100030671,Male,41250.0,2,Junior Associate,Full time,Salary,Client Techology,Americas,-2.01
+100635196,Female,93872.98,15,Senior Associate,Full time,Salary,Technology Services,Europe,16.17
+100325269,Female,34787.22,4,Entry Level,Full time,Hourly,Research,Americas,0.0
+100379570,Female,49500.0,12,Team Lead,Full time,Salary,Catering,Americas,-2.88
+100201456,Female,45000.0,9,Junior Associate,Full time,Salary,Research,Americas,0.0
+100530761,Female,59925.08,11,Junior Associate,Full time,Salary,Customer Experience,Europe,10.48
+100110201,Male,172500.0,12,Manger II,Full time,Salary,Patent Law,Americas,-16.4
+100797404,Male,32760.0,7,Second Year Associate,Full time,Hourly,Catering,Americas,-2.88
+100924135,Female,25910.82,7,Entry Level,Full time,Hourly,Research,Americas,0.0
+100434874,Female,104996.25,8,Senior Associate,Full time,Salary,R&D,Americas,-10.52
+100471629,Female,26250.0,0,Entry Level,Full time,Salary,Client Strategy,Americas,6.59
+100000892,Female,67500.0,9,Senior Associate,Full time,Salary,Customer Experience,Americas,10.48
+100999731,Female,50212.5,8,Second Year Associate,Full time,Salary,Client Techology,Americas,-2.01
+100008547,Female,66000.0,2,Junior Associate,Full time,Salary,Graphic Design,Americas,27.77
+100550451,Female,99000.0,7,Manager,Full time,Salary,Investment,Americas,22.35
+100279560,Female,105000.0,5,Junior Associate,Full time,Salary,Technology Services,Americas,16.17
+100660403,Female,46800.0,12,Senior Associate,Full time,Hourly,Research,Americas,0.0
+100084965,Male,92668.54,23,Manager,Full time,Salary,Client Strategy,Europe,6.59
+100011975,Male,78750.0,14,Manger II,Full time,Salary,Catering,Americas,-2.88
+100551027,Female,57937.5,6,Junior Associate,Full time,Salary,Expansion,Americas,17.29
+100933266,Male,160602.75,32,Manger II,Full time,Salary,Technology Services,Americas,16.17
+100935560,Male,62547.81,14,Team Lead,Full time,Salary,Customer Experience,Asia,10.48
+100973737,Male,56179.76,9,Senior Associate,Full time,Salary,Customer Experience,Europe,10.48
+100694071,Male,81750.38,13,Senior Associate,Full time,Salary,Customer Experience,Americas,10.48
+100381244,Male,121504.5,8,Team Lead,Full time,Salary,Technology Services,Americas,16.17
+100562180,Male,93000.0,28,Manager,Full time,Salary,Research,Americas,0.0
+100194152,Male,189549.28,25,Manager,Full time,Salary,Pricing Analytics,Europe,-4.56
+100349585,Female,16804.81,12,Senior Associate,Full time,Salary,Customer Experience,Americas,10.48
+100560373,Female,74812.5,10,Team Lead,Full time,Salary,R&D,Americas,-10.52
+100291186,Female,24992.99,8,Team Lead,Full time,Salary,Catering,Americas,-2.88
+100861675,Female,56251.8,3,Second Year Associate,Full time,Salary,R&D,Americas,-10.52
+100207628,Male,90000.0,2,Senior Associate,Full time,Salary,Government Consulting,Americas,0.0
+100644494,Female,35683.51,3,Junior Associate,Full time,Salary,Catering,Europe,-2.88
+100476980,Male,83250.0,9,Team Lead,Full time,Salary,Client Strategy,Americas,6.59
+100740546,Female,37453.17,4,Junior Associate,Full time,Salary,Client Strategy,Europe,6.59
+100444138,Male,25807.82,9,Senior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100717536,Female,25910.82,25,Entry Level,Full time,Hourly,Research,Americas,0.0
+100415501,Female,57780.0,3,Entry Level,Full time,Salary,Investment,Americas,22.35
+100671591,Female,34644.18,3,Junior Associate,Full time,Salary,Catering,Europe,-2.88
+100211767,Female,243750.0,16,Sr Manager,Full time,Salary,Pricing Analytics,Americas,-4.56
+100016476,Female,46427.25,5,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100719045,Female,22620.0,36,Junior Associate,Part time,Hourly,Government Consulting,Americas,0.0
+100080454,Female,92700.0,7,Team Lead,Full time,Salary,Pricing Analytics,Americas,-4.56
+100072689,Male,93750.0,11,Team Lead,Full time,Salary,Technology Services,Americas,16.17
+100982697,Male,168750.0,21,Sr Manager,Full time,Salary,Research,Americas,0.0
+100396433,Male,82500.0,7,Senior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100627185,Male,97500.0,6,Junior Associate,Full time,Salary,Technology Services,Americas,16.17
+100274417,Male,137700.0,25,Manger II,Full time,Salary,Graphic Design,Americas,27.77
+100661667,Male,78750.0,9,Team Lead,Full time,Salary,Strategy,Americas,34.74
+100266637,Female,195000.0,12,Sr Manager,Full time,Salary,Technology Services,Americas,16.17
+100709215,Male,25911.6,9,Entry Level,Full time,Hourly,Research,Americas,0.0
+100547744,Female,46946.25,2,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100242409,Male,35683.51,2,Junior Associate,Full time,Salary,Catering,Europe,-2.88
+100136278,Female,52500.0,5,Junior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100804452,Female,36004.8,0,Second Year Associate,Full time,Hourly,Catering,Americas,-2.88
+100312956,Male,45941.6,30,Senior Associate,Full time,Hourly,Research,Americas,0.0
+100114953,Female,65543.04,10,Senior Associate,Full time,Salary,Expansion,Europe,17.29
+100512050,Male,14281.7,6,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100337164,Female,25911.6,10,Entry Level,Full time,Hourly,Research,Americas,0.0
+100111945,Male,124500.0,7,Manager,Full time,Salary,Technology Services,Americas,16.17
+100343553,Male,185400.0,32,Sr Manager,Full time,Salary,Expansion,Americas,17.29
+100918180,Male,46800.0,4,Junior Associate,Part time,Hourly,Government Consulting,Americas,0.0
+100939858,Male,150005.63,6,Manger II,Full time,Salary,Technology Services,Americas,16.17
+100639157,Female,62250.0,3,Junior Associate,Full time,Salary,Expansion,Americas,17.29
+100784826,Male,29753.55,10,Senior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100062882,Female,101970.0,10,Manager,Full time,Salary,Technology Services,Americas,16.17
+100103884,Female,56250.0,11,Junior Associate,Full time,Salary,Technology Services,Americas,16.17
+100251389,Male,63054.0,11,Senior Associate,Full time,Salary,Technology Services,Americas,16.17
+100348481,Female,750000.0,36,VP,Full time,Salary,Pricing Analytics,Americas,-4.56
+100929287,Male,37502.4,9,Entry Level,Full time,Hourly,Client Techology,Americas,-2.01
+100093460,Female,228750.0,26,Director,Full time,Salary,R&D,Americas,-10.52
+100397823,Female,86250.0,1,Team Lead,Full time,Salary,Graphic Design,Americas,27.77
+100872741,Female,54750.0,9,Junior Associate,Full time,Salary,Client Techology,Americas,-2.01
+100875789,Female,82500.0,8,Team Lead,Full time,Salary,Catering,Americas,-2.88
+100277380,Female,75000.0,14,Senior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100175035,Female,75000.0,5,Second Year Associate,Full time,Salary,Technology Services,Americas,16.17
+100025556,Female,63000.0,8,Junior Associate,Full time,Salary,Customer Experience,Americas,10.48
+100321518,Female,60255.0,5,Team Lead,Full time,Salary,Catering,Americas,-2.88
+100294438,Male,84000.0,4,Senior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100631733,Male,48750.0,7,Junior Associate,Full time,Hourly,Client Techology,Americas,-2.01
+100699846,Female,26958.12,10,Junior Associate,Full time,Salary,Catering,Europe,-2.88
+100074217,Female,77841.57,5,Senior Associate,Full time,Salary,Technology Services,Europe,16.17
+100314451,Female,36438.57,8,Junior Associate,Full time,Salary,Catering,Oceania,-2.88
+100317322,Female,69862.5,7,Junior Associate,Full time,Salary,Customer Experience,Americas,10.48
+100436125,Female,210000.0,17,Director,Full time,Salary,Client Strategy,Americas,6.59
+100119772,Female,43500.0,6,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100722475,Male,45000.0,5,Junior Associate,Full time,Salary,Government Consulting,Americas,0.0
+100259914,Female,67500.0,6,Senior Associate,Full time,Salary,Customer Experience,Americas,10.48
+100501181,Female,16835.3,8,Junior Associate,Full time,Salary,Investment,Americas,22.35
+100708754,Female,45000.0,7,Junior Associate,Full time,Salary,Government Consulting,Americas,0.0
+100167780,Male,71250.0,10,Senior Associate,Full time,Salary,Government Consulting,Americas,0.0
+100013141,Male,29640.0,5,Second Year Associate,Full time,Hourly,Catering,Americas,-2.88
+100960958,Female,47752.79,5,Team Lead,Full time,Salary,Catering,Europe,-2.88
+100400591,Female,25910.82,21,Entry Level,Full time,Hourly,Research,Americas,0.0
+100062071,Female,63750.0,29,Team Lead,Full time,Salary,Government Consulting,Americas,0.0
+100096222,Male,97500.0,11,Senior Associate,Full time,Salary,Investment,Americas,22.35
+100863021,Male,71250.0,8,Team Lead,Full time,Salary,Catering,Americas,-2.88
+100009132,Female,45000.0,0,Second Year Associate,Full time,Salary,Graphic Design,Americas,27.77
+100930793,Female,154494.33,15,Director,Full time,Salary,Client Strategy,Europe,6.59
+100385912,Male,29640.0,1,Second Year Associate,Full time,Hourly,Catering,Americas,-2.88
+100762567,Female,44246.84,5,Team Lead,Full time,Salary,Catering,Oceania,-2.88
+100926938,Female,28563.4,7,Team Lead,Full time,Salary,Strategy,Americas,34.74
+100179797,Female,48750.0,1,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100530809,Male,47738.02,30,Junior Associate,Full time,Hourly,Research,Americas,0.0
+100313967,Male,57187.5,4,Senior Associate,Full time,Salary,R&D,Americas,-10.52
+100165003,Female,75600.0,7,Senior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100903960,Female,41036.66,11,Junior Associate,Full time,Salary,Patent Law,Asia,-16.4
+100039487,Male,25911.6,11,Entry Level,Full time,Hourly,Research,Americas,0.0
+100132965,Male,77250.0,6,Team Lead,Full time,Salary,R&D,Americas,-10.52
+100611140,Female,75000.0,10,Team Lead,Full time,Salary,Graphic Design,Americas,27.77
+100481701,Female,93750.0,1,Team Lead,Full time,Salary,Technology Services,Americas,16.17
+100249144,Female,150000.0,14,Sr Manager,Full time,Salary,IPO Strategy,Americas,-29.53
+100015264,Female,25749.05,4,Second Year Associate,Full time,Salary,Catering,Europe,-2.88
+100343785,Male,23400.0,12,Entry Level,Full time,Hourly,Research,Americas,0.0
+100370680,Female,50747.65,9,Manager,Full time,Salary,Pricing Analytics,Americas,-4.56
+100881732,Male,116250.0,11,Senior Associate,Full time,Salary,Technology Services,Americas,16.17
+100436391,Male,89553.7,7,Manger II,Full time,Salary,Catering,Americas,-2.88
+100282369,Female,24102.0,19,Entry Level,Full time,Hourly,Research,Americas,0.0
+100156896,Male,204712.5,20,Director,Full time,Salary,Expansion,Americas,17.29
+100088555,Female,67500.0,6,Senior Associate,Full time,Salary,Customer Experience,Americas,10.48
+100690744,Female,97500.0,9,Junior Associate,Full time,Salary,Technology Services,Americas,16.17
+100440824,Female,48075.11,11,Senior Associate,Full time,Salary,Investment,Europe,22.35
+100000323,Female,75000.0,6,Junior Associate,Full time,Salary,Technology Services,Americas,16.17
+100854163,Female,62595.0,4,Team Lead,Full time,Salary,Catering,Americas,-2.88
+100765339,Male,191244.38,10,Manger II,Full time,Salary,Technology Services,Americas,16.17
+100545569,Male,52500.0,7,Team Lead,Full time,Salary,Catering,Americas,-2.88
+100643779,Male,25910.82,9,Entry Level,Full time,Hourly,Research,Americas,0.0
+100700400,Female,58500.0,4,Team Lead,Full time,Salary,Catering,Americas,-2.88
+100390170,Female,127500.0,18,Manager,Full time,Salary,Client Strategy,Americas,6.59
+100335494,Female,12955.41,11,Entry Level,Part time,Hourly,Research,Americas,0.0
+100909160,Male,40556.25,7,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100717683,Male,66000.0,7,Junior Associate,Full time,Salary,Client Techology,Americas,-2.01
+100473550,Female,89571.53,11,Team Lead,Full time,Salary,Technology Services,Europe,16.17
+100576860,Female,42134.82,6,Team Lead,Full time,Salary,Customer Experience,Europe,10.48
+100366868,Female,105000.0,10,Team Lead,Full time,Salary,Technology Services,Americas,16.17
+100514100,Female,17830.85,7,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100642229,Female,67500.0,3,Senior Associate,Full time,Salary,Expansion,Americas,17.29
+100797773,Male,43912.9,7,Senior Associate,Full time,Salary,Client Strategy,Europe,6.59
+100061525,Male,52500.0,2,Junior Associate,Full time,Salary,Government Consulting,Americas,0.0
+100754521,Female,46816.46,5,Junior Associate,Full time,Salary,Customer Experience,Europe,10.48
+100158114,Male,31500.0,0,Entry Level,Full time,Salary,Client Strategy,Americas,6.59
+100070845,Female,71250.0,4,Junior Associate,Full time,Salary,R&D,Americas,-10.52
+100254401,Male,56250.0,3,Senior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100083426,Female,90000.0,8,Team Lead,Full time,Salary,Client Strategy,Americas,6.59
+100009403,Male,25910.82,4,Entry Level,Full time,Hourly,Research,Americas,0.0
+100008117,Female,29753.55,6,Manager,Full time,Salary,Catering,Americas,-2.88
+100340884,Male,66188.16,5,Senior Associate,Full time,Salary,Customer Experience,Asia,10.48
+100984621,Male,108750.0,4,Manager,Full time,Salary,Technology Services,Americas,16.17
+100804375,Male,157500.0,14,Manger II,Full time,Salary,Investment,Americas,22.35
+100921346,Male,60861.4,14,Senior Associate,Full time,Salary,Customer Experience,Europe,10.48
+100396886,Female,138750.0,18,Team Lead,Full time,Salary,Patent Law,Americas,-16.4
+100085643,Female,67500.0,3,Junior Associate,Full time,Salary,Strategy,Americas,34.74
+100600739,Male,22604.4,34,Entry Level,Full time,Hourly,Research,Americas,0.0
+100900064,Female,44007.47,19,Senior Associate,Full time,Salary,Expansion,Europe,17.29
+100187269,Female,67500.0,10,Senior Associate,Full time,Salary,R&D,Americas,-10.52
+100418452,Female,19280.3,4,Senior Associate,Full time,Salary,IPO Strategy,Americas,-29.53
+100117394,Female,65981.25,8,Senior Associate,Full time,Salary,Customer Experience,Americas,10.48
+100294173,Male,78750.0,3,Junior Associate,Full time,Salary,Client Techology,Americas,-2.01
+100965521,Male,150000.0,10,Sr Manager,Full time,Salary,Client Strategy,Americas,6.59
+100583010,Male,116250.0,21,Team Lead,Full time,Salary,Technology Services,Americas,16.17
+100325787,Male,108752.63,8,Team Lead,Full time,Salary,Technology Services,Americas,16.17
+100338993,Male,131250.0,9,Manager,Full time,Salary,R&D,Americas,-10.52
+100989572,Male,206250.0,13,Manger II,Full time,Salary,Technology Services,Americas,16.17
+100048556,Male,90000.0,25,Senior Associate,Full time,Salary,Technology Services,Americas,16.17
+100237090,Female,61500.0,9,Junior Associate,Full time,Salary,Customer Experience,Americas,10.48
+100025019,Male,105000.0,13,Team Lead,Full time,Salary,R&D,Americas,-10.52
+100878913,Female,65010.0,8,Junior Associate,Full time,Salary,Graphic Design,Americas,27.77
+100405313,Male,115875.0,10,Manager,Full time,Salary,Expansion,Americas,17.29
+100728201,Female,40500.0,3,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100431871,Male,130496.25,9,Manger II,Full time,Salary,Expansion,Americas,17.29
+100479819,Female,65025.0,10,Team Lead,Full time,Salary,Catering,Americas,-2.88
+100557031,Female,195000.0,12,Sr Manager,Full time,Salary,R&D,Americas,-10.52
+100419842,Male,24278.89,6,Senior Associate,Full time,Salary,Pricing Analytics,Americas,-4.56
+100673600,Male,67500.0,3,Junior Associate,Full time,Salary,Patent Law,Americas,-16.4
+100142305,Female,32760.0,3,Second Year Associate,Full time,Hourly,Catering,Americas,-2.88
+100710998,Male,39375.0,1,Entry Level,Full time,Salary,Client Strategy,Americas,6.59
+100498896,Female,183750.0,10,Manger II,Full time,Salary,Graphic Design,Americas,27.77
+100052455,Male,51498.11,11,Junior Associate,Full time,Salary,Customer Experience,Europe,10.48
+100718742,Female,112500.0,9,Manger II,Full time,Salary,Client Strategy,Americas,6.59
+100809618,Male,23461.65,6,Senior Associate,Full time,Salary,Catering,Americas,-2.88
+100982958,Female,45000.0,3,Second Year Associate,Full time,Salary,Client Strategy,Americas,6.59
+100747024,Female,32760.0,5,Second Year Associate,Full time,Hourly,Catering,Americas,-2.88
+100944128,Female,88837.5,6,Team Lead,Full time,Salary,Investment,Americas,22.35
+100070166,Male,135000.0,13,Manager,Full time,Salary,Expansion,Americas,17.29
+100671081,Female,14355.5,5,Junior Associate,Full time,Salary,Customer Experience,Americas,10.48
+100988752,Female,31274.12,9,Entry Level,Full time,Salary,Strategy,Europe,34.74
+100229074,Male,51000.0,3,Junior Associate,Full time,Hourly,Patent Law,Americas,-16.4
+100600143,Male,21840.0,17,Entry Level,Full time,Hourly,Research,Americas,0.0
+100571908,Male,79587.99,13,Team Lead,Full time,Salary,Client Strategy,Europe,6.59
+100129032,Female,39585.0,19,Junior Associate,Part time,Hourly,Government Consulting,Americas,0.0
+100841707,Male,61278.75,10,Senior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100977908,Female,96750.0,12,Team Lead,Full time,Salary,Customer Experience,Americas,10.48
+100334904,Male,25911.6,5,Entry Level,Full time,Hourly,Research,Americas,0.0
+100257418,Female,11901.42,0,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100421825,Female,56250.0,5,Team Lead,Full time,Salary,Catering,Americas,-2.88
+100507031,Female,70847.54,9,Junior Associate,Full time,Salary,Technology Services,Europe,16.17
+100611809,Female,9578.26,6,Second Year Associate,Full time,Salary,Catering,Americas,-2.88
+100102845,Female,43500.0,7,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100280561,Female,32760.0,0,Second Year Associate,Full time,Hourly,Catering,Americas,-2.88
+100156263,Male,35061.0,47,Junior Associate,Part time,Hourly,Government Consulting,Americas,0.0
+100182012,Female,60000.0,7,Senior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100272105,Female,41250.0,4,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100555469,Male,45000.0,2,Junior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100358327,Male,45000.0,6,Junior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100254919,Male,183750.0,32,Manger II,Full time,Salary,Technology Services,Americas,16.17
+100816480,Female,68850.0,7,Junior Associate,Full time,Salary,Expansion,Americas,17.29
+100577808,Male,82500.0,13,Senior Associate,Full time,Salary,Expansion,Americas,17.29
+100423250,Male,75075.0,8,Team Lead,Full time,Salary,Expansion,Americas,17.29
+100268976,Female,67842.86,12,Team Lead,Full time,Salary,Catering,Asia,-2.88
+100901629,Male,150000.0,8,Sr Manager,Full time,Salary,Government Consulting,Americas,0.0
+100979514,Male,52501.23,4,Team Lead,Full time,Salary,Catering,Americas,-2.88
+100114367,Male,25910.82,22,Entry Level,Full time,Hourly,Research,Americas,0.0
+100194176,Female,67500.0,10,Junior Associate,Full time,Salary,R&D,Americas,-10.52
+100995903,Male,187500.0,16,Sr Manager,Full time,Salary,Technology Services,Americas,16.17
+100909365,Male,86250.0,8,Senior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100170632,Male,42120.0,28,Entry Level,Full time,Hourly,Research,Americas,0.0
+100488126,Female,112612.5,11,Team Lead,Full time,Salary,Investment,Americas,22.35
+100008362,Male,25911.6,22,Entry Level,Full time,Hourly,Research,Americas,0.0
+100780920,Female,28275.0,4,Entry Level,Part time,Hourly,Government Consulting,Americas,0.0
+100641832,Male,63258.75,6,Second Year Associate,Full time,Salary,Technology Services,Europe,16.17
+100087572,Male,25910.82,30,Entry Level,Full time,Hourly,Research,Americas,0.0
+100565908,Male,95625.0,16,Team Lead,Full time,Salary,Client Strategy,Americas,6.59
+100260632,Female,68327.87,6,Team Lead,Full time,Salary,Customer Experience,Americas,10.48
+100664690,Male,66937.5,9,Senior Associate,Full time,Salary,Customer Experience,Americas,10.48
+100774274,Male,26089.36,6,Senior Associate,Full time,Salary,R&D,Americas,-10.52
+100485977,Female,60000.0,16,Team Lead,Full time,Salary,Catering,Americas,-2.88
+100353142,Female,34540.1,9,Junior Associate,Full time,Salary,Catering,Europe,-2.88
+100598089,Male,32771.53,7,Second Year Associate,Full time,Salary,Client Strategy,Europe,6.59
+100927459,Male,57937.5,6,Team Lead,Full time,Salary,Catering,Americas,-2.88
+100113528,Female,154494.33,9,Sr Manager,Full time,Salary,Leadership,Europe,37.58
+100003262,Male,79703.47,8,Junior Associate,Full time,Salary,Technology Services,Europe,16.17
+100929844,Male,48748.5,10,Junior Associate,Full time,Salary,Client Techology,Americas,-2.01
+100290429,Female,34644.18,4,Junior Associate,Full time,Salary,Catering,Europe,-2.88
+100382802,Male,82500.0,5,Junior Associate,Full time,Salary,Expansion,Americas,17.29
+100608497,Male,172500.0,22,Team Lead,Full time,Salary,Technology Services,Americas,16.17
+100002010,Female,154500.0,9,Team Lead,Full time,Salary,Technology Services,Americas,16.17
+100182473,Female,34644.18,10,Junior Associate,Full time,Salary,Catering,Europe,-2.88
+100450663,Male,52500.0,17,Junior Associate,Full time,Salary,Government Consulting,Americas,0.0
+100408345,Female,105000.0,28,Manager,Full time,Salary,Client Techology,Americas,-2.01
+100338871,Male,23400.0,5,Entry Level,Full time,Hourly,Research,Americas,0.0
+100454121,Male,189750.0,18,Manger II,Full time,Salary,Technology Services,Americas,16.17
+100377119,Male,131250.0,21,Manager,Full time,Salary,Technology Services,Americas,16.17
+100923279,Female,75000.0,7,Senior Associate,Full time,Salary,Customer Experience,Americas,10.48
+100604169,Female,101250.0,8,Manager,Full time,Salary,Client Strategy,Americas,6.59
+100926103,Female,105000.0,13,Team Lead,Full time,Salary,Expansion,Americas,17.29
+100186257,Male,131250.0,12,Senior Associate,Full time,Salary,Technology Services,Americas,16.17
+100080682,Female,73387.5,4,Senior Associate,Full time,Salary,Expansion,Americas,17.29
+100734772,Female,24570.0,10,Entry Level,Full time,Hourly,Research,Americas,0.0
+100263301,Female,64125.0,8,Junior Associate,Full time,Salary,Customer Experience,Americas,10.48
+100117829,Female,28080.0,9,Second Year Associate,Full time,Hourly,Catering,Americas,-2.88
+100306805,Female,40875.0,7,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100139492,Female,43875.0,3,Junior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100469026,Female,60861.4,12,Senior Associate,Full time,Salary,Expansion,Europe,17.29
+100656232,Male,150000.0,21,Team Lead,Full time,Salary,Technology Services,Americas,16.17
+100783916,Male,67500.0,5,Junior Associate,Full time,Salary,Strategy,Americas,34.74
+100212714,Female,41434.63,6,Junior Associate,Full time,Salary,Catering,Europe,-2.88
+100080677,Female,48750.0,6,Junior Associate,Full time,Salary,Graphic Design,Americas,27.77
+100114696,Female,20280.0,11,Entry Level,Full time,Hourly,Research,Americas,0.0
+100021317,Female,224998.13,16,Director,Full time,Salary,IPO Strategy,Americas,-29.53
+100304425,Female,23461.65,8,Junior Associate,Full time,Salary,Graphic Design,Americas,27.77
+100774398,Male,47736.0,13,Senior Associate,Full time,Hourly,Research,Americas,0.0
+100023690,Female,69750.0,19,Senior Associate,Full time,Salary,Expansion,Americas,17.29
+100759230,Male,58052.41,10,Senior Associate,Full time,Salary,Customer Experience,Europe,10.48
+100895428,Male,15465.92,9,Junior Associate,Full time,Salary,Research,Americas,0.0
+100637564,Male,34644.18,6,Junior Associate,Full time,Salary,Catering,Europe,-2.88
+100650126,Female,52753.67,10,Junior Associate,Full time,Salary,Customer Experience,Europe,10.48
+100318824,Male,54750.0,3,Senior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100952741,Male,56250.0,6,Team Lead,Full time,Salary,Government Consulting,Americas,0.0
+100922954,Male,53370.77,4,Junior Associate,Full time,Salary,Customer Experience,Europe,10.48
+100216187,Male,157590.0,11,Manger II,Full time,Salary,Strategy,Americas,34.74
+100386565,Female,63750.0,8,Junior Associate,Full time,Salary,Customer Experience,Americas,10.48
+100954590,Male,78750.0,12,Senior Associate,Full time,Salary,Expansion,Americas,17.29
+100699994,Male,50546.47,2,Junior Associate,Full time,Salary,Pricing Analytics,Europe,-4.56
+100410406,Male,38477.11,10,Team Lead,Full time,Salary,Customer Experience,Americas,10.48
+100082008,Male,43072.09,25,Junior Associate,Full time,Hourly,Research,Americas,0.0
+100604469,Female,33930.0,21,Junior Associate,Part time,Hourly,Government Consulting,Americas,0.0
+100575087,Male,180000.0,27,Sr Manager,Full time,Salary,Investment,Americas,22.35
+100913364,Male,138750.0,8,Senior Associate,Full time,Salary,Technology Services,Americas,16.17
+100388163,Female,191877.89,20,Director,Full time,Salary,Client Strategy,Europe,6.59
+100814215,Female,19042.27,3,Senior Associate,Full time,Salary,Pricing Analytics,Americas,-4.56
+100553784,Female,191250.0,14,Manger II,Full time,Salary,Client Strategy,Americas,6.59
+100807767,Male,135000.0,24,Sr Manager,Full time,Salary,Client Strategy,Americas,6.59
+100684952,Male,67500.0,6,Junior Associate,Full time,Salary,Graphic Design,Americas,27.77
+100116423,Male,90000.0,6,Team Lead,Full time,Salary,Expansion,Americas,17.29
+100310673,Male,11972.83,5,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100884352,Female,31200.0,8,Second Year Associate,Full time,Hourly,Catering,Americas,-2.88
+100126169,Male,42000.0,4,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100617142,Male,82500.0,13,Team Lead,Full time,Salary,Client Strategy,Americas,6.59
+100676111,Male,63750.0,10,Junior Associate,Full time,Salary,Government Consulting,Americas,0.0
+100043777,Female,102000.0,6,Junior Associate,Full time,Salary,Technology Services,Americas,16.17
+100612711,Female,25910.98,13,Entry Level,Full time,Hourly,Research,Americas,0.0
+100885870,Female,48750.0,2,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100577445,Male,71758.43,13,Manager,Full time,Salary,Investment,Europe,22.35
+100214496,Female,71625.0,11,Team Lead,Full time,Salary,Client Strategy,Americas,6.59
+100421946,Female,21840.0,8,Entry Level,Full time,Hourly,Research,Americas,0.0
+100136195,Male,25910.98,18,Entry Level,Full time,Hourly,Research,Americas,0.0
+100297078,Female,40170.0,8,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100976728,Male,23400.0,11,Entry Level,Full time,Hourly,Research,Americas,0.0
+100229544,Male,135000.0,27,Team Lead,Full time,Salary,Technology Services,Americas,16.17
+100841200,Male,84000.0,13,Manager,Full time,Salary,Government Consulting,Americas,0.0
+100646095,Female,19981.81,12,Senior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100432122,Male,185400.0,14,Manager,Full time,Salary,Technology Services,Americas,16.17
+100953813,Female,93750.0,16,Senior Associate,Full time,Salary,R&D,Americas,-10.52
+100038834,Male,45000.0,3,Junior Associate,Full time,Salary,Client Techology,Americas,-2.01
+100179171,Female,97196.52,8,Sr Manager,Full time,Salary,R&D,Americas,-10.52
+100595475,Female,107250.0,9,Team Lead,Full time,Salary,Technology Services,Americas,16.17
+100127385,Male,50212.5,5,Junior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100733235,Male,187500.0,13,Manager,Full time,Salary,Technology Services,Americas,16.17
+100528198,Female,34644.18,2,Junior Associate,Full time,Salary,Catering,Europe,-2.88
+100286612,Female,26833.56,14,Entry Level,Full time,Hourly,Research,Americas,0.0
+100813306,Male,12059.76,8,Junior Associate,Full time,Salary,Customer Experience,Americas,10.48
+100926375,Male,45000.0,7,Junior Associate,Full time,Salary,Government Consulting,Americas,0.0
+100352731,Male,213750.0,12,Manager,Full time,Salary,Technology Services,Americas,16.17
+100004905,Male,25911.6,5,Entry Level,Full time,Hourly,Research,Americas,0.0
+100971415,Male,127462.5,17,Manger II,Full time,Salary,Customer Experience,Americas,10.48
+100940468,Female,109550.52,13,Sr Manager,Full time,Salary,Catering,Europe,-2.88
+100159159,Male,116250.0,27,Team Lead,Full time,Salary,Expansion,Americas,17.29
+100525068,Male,82500.0,3,Manager,Full time,Salary,Client Strategy,Americas,6.59
+100752006,Female,45000.0,14,Junior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100580808,Female,46800.0,8,Junior Associate,Part time,Hourly,Government Consulting,Americas,0.0
+100280365,Male,48750.0,8,Entry Level,Full time,Salary,Client Techology,Americas,-2.01
+100678919,Female,62437.5,6,Junior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100258500,Male,52500.0,6,Second Year Associate,Full time,Salary,Expansion,Americas,17.29
+100558743,Male,42134.82,8,Senior Associate,Full time,Salary,Client Strategy,Europe,6.59
+100866759,Female,116461.31,21,Manger II,Full time,Salary,Customer Experience,Asia,10.48
+100870142,Male,61800.0,38,Junior Associate,Full time,Salary,Expansion,Americas,17.29
+100210096,Female,39000.0,6,Second Year Associate,Full time,Hourly,Catering,Americas,-2.88
+100111965,Female,41599.53,12,Team Lead,Full time,Salary,Expansion,Americas,17.29
+100302140,Male,112500.0,17,Team Lead,Full time,Salary,Expansion,Americas,17.29
+100703941,Male,52500.0,9,Senior Associate,Full time,Salary,Client Strategy,Americas,6.59
+100663135,Female,22495.2,30,Entry Level,Full time,Hourly,Research,Americas,0.0
+100944893,Male,121125.0,6,Manager,Full time,Salary,Pricing Analytics,Americas,-4.56
+100496708,Male,57750.0,20,Second Year Associate,Full time,Salary,Technology Services,Americas,16.17
+100649423,Male,156000.0,8,Team Lead,Full time,Salary,Technology Services,Americas,16.17
+100531421,Female,76875.0,5,Team Lead,Full time,Salary,Client Strategy,Americas,6.59
+100287265,Female,58710.0,6,Team Lead,Full time,Salary,Catering,Americas,-2.88
+100721915,Female,187500.0,25,Manager,Full time,Salary,Technology Services,Americas,16.17
+100598006,Male,82500.0,9,Manager,Full time,Salary,Graphic Design,Americas,27.77
+100703652,Male,25749.05,3,Second Year Associate,Full time,Salary,Catering,Europe,-2.88
+100902428,Female,34540.1,8,Junior Associate,Full time,Salary,Catering,Europe,-2.88
+100274146,Female,57997.5,14,Senior Associate,Full time,Salary,Investment,Americas,22.35
+100333804,Female,169125.0,10,Sr Manager,Full time,Salary,Client Strategy,Americas,6.59
+100698329,Male,127500.0,8,Senior Associate,Full time,Salary,Technology Services,Americas,16.17
+100360100,Female,48750.0,6,Senior Associate,Full time,Salary,Research,Americas,0.0
+100273308,Female,48750.0,2,Second Year Associate,Full time,Salary,Catering,Americas,-2.88
+100439883,Male,48000.0,5,Junior Associate,Full time,Salary,Catering,Americas,-2.88
+100035325,Male,75000.0,5,Junior Associate,Full time,Salary,Investment,Americas,22.35
+100932674,Female,26520.0,1,Second Year Associate,Full time,Hourly,Catering,Americas,-2.88
+100419347,Female,29561.68,11,Senior Associate,Full time,Salary,Expansion,Americas,17.29
+100204255,Female,11901.42,3,Junior Associate,Full time,Salary,Catering,Americas,-2.88
